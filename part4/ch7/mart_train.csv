@@ -1,0 +1,701 @@
+branch,city,customer_type,gender,product_line,total,payment_method,rating,time_of_day,day_name
+A,Yangon,Member,Female,Health and beauty,823457.25,Ewallet,9.1,afternoon,Saturday
+C,Naypyitaw,Normal,Female,Electronic accessories,120330.0,Cash,9.6,morning,Friday
+A,Yangon,Normal,Male,Home and lifestyle,510788.25000000006,Credit card,7.4,afternoon,Sunday
+A,Yangon,Member,Male,Health and beauty,733572.0,Ewallet,8.4,evening,Sunday
+A,Yangon,Normal,Male,Sports and travel,951567.75,Ewallet,5.3,morning,Friday
+C,Naypyitaw,Normal,Male,Electronic accessories,941424.75,Ewallet,4.1,evening,Monday
+A,Yangon,Member,Female,Electronic accessories,650538.0,Ewallet,5.8,afternoon,Monday
+C,Naypyitaw,Normal,Female,Home and lifestyle,1158570.0,Ewallet,8.0,morning,Sunday
+A,Yangon,Member,Female,Health and beauty,114219.0,Credit card,7.2,evening,Thursday
+B,Mandalay,Member,Female,Food and beverages,259119.0,Credit card,5.9,afternoon,Wednesday
+B,Mandalay,Member,Female,Fashion accessories,91224.0,Ewallet,4.5,evening,Wednesday
+B,Mandalay,Member,Male,Electronic accessories,160713.0,Cash,6.8,evening,Saturday
+A,Yangon,Normal,Female,Electronic accessories,369731.25,Ewallet,7.1,morning,Tuesday
+A,Yangon,Normal,Male,Food and beverages,680242.5,Ewallet,8.2,evening,Thursday
+A,Yangon,Normal,Female,Health and beauty,1124235.0,Cash,5.7,evening,Friday
+B,Mandalay,Member,Female,Sports and travel,885654.0,Cash,4.5,evening,Tuesday
+A,Yangon,Member,Female,Health and beauty,759953.25,Credit card,4.6,morning,Monday
+A,Yangon,Normal,Male,Sports and travel,686164.5,Credit card,6.9,morning,Tuesday
+A,Yangon,Normal,Male,Food and beverages,258315.75,Credit card,8.6,evening,Monday
+B,Mandalay,Normal,Female,Home and lifestyle,126945.0,Ewallet,4.4,afternoon,Monday
+C,Naypyitaw,Member,Male,Electronic accessories,677565.0,Ewallet,4.8,morning,Monday
+B,Mandalay,Normal,Male,Health and beauty,415705.5,Ewallet,5.1,morning,Tuesday
+B,Mandalay,Normal,Male,Home and lifestyle,104580.0,Credit card,4.4,afternoon,Friday
+A,Yangon,Normal,Male,Electronic accessories,272160.0,Ewallet,9.9,morning,Sunday
+A,Yangon,Member,Male,Sports and travel,418776.75,Ewallet,6.0,evening,Saturday
+A,Yangon,Member,Female,Home and lifestyle,662634.0,Credit card,8.5,evening,Friday
+B,Mandalay,Normal,Male,Fashion accessories,52794.0,Cash,6.7,afternoon,Friday
+A,Yangon,Normal,Female,Fashion accessories,276160.5,Credit card,7.7,afternoon,Sunday
+B,Mandalay,Normal,Female,Food and beverages,695835.0,Cash,9.6,evening,Friday
+A,Yangon,Normal,Male,Health and beauty,352815.75,Cash,7.4,afternoon,Friday
+B,Mandalay,Normal,Male,Fashion accessories,741273.75,Credit card,4.8,evening,Monday
+B,Mandalay,Member,Male,Sports and travel,1106642.25,Cash,4.5,afternoon,Monday
+B,Mandalay,Normal,Male,Sports and travel,1055628.0,Cash,5.1,afternoon,Thursday
+A,Yangon,Normal,Male,Health and beauty,304227.0,Credit card,5.1,morning,Friday
+C,Naypyitaw,Member,Female,Food and beverages,626346.0,Ewallet,7.5,morning,Wednesday
+C,Naypyitaw,Member,Female,Sports and travel,107289.0,Ewallet,6.8,afternoon,Monday
+A,Yangon,Member,Male,Sports and travel,493132.5,Ewallet,7.0,evening,Sunday
+A,Yangon,Normal,Female,Electronic accessories,862974.0,Ewallet,4.7,evening,Tuesday
+C,Naypyitaw,Normal,Female,Health and beauty,691992.0,Ewallet,7.6,afternoon,Saturday
+B,Mandalay,Member,Male,Home and lifestyle,379512.0,Cash,7.7,afternoon,Sunday
+B,Mandalay,Member,Female,Home and lifestyle,136584.0,Ewallet,7.9,evening,Thursday
+C,Naypyitaw,Member,Male,Home and lifestyle,176746.5,Cash,6.3,morning,Saturday
+B,Mandalay,Member,Female,Sports and travel,653184.0,Cash,5.6,afternoon,Friday
+C,Naypyitaw,Member,Female,Food and beverages,1243620.0,Cash,7.6,evening,Monday
+C,Naypyitaw,Member,Male,Health and beauty,48415.5,Cash,7.2,evening,Saturday
+B,Mandalay,Member,Female,Electronic accessories,591948.0,Cash,9.5,evening,Saturday
+B,Mandalay,Member,Male,Health and beauty,803580.75,Credit card,8.4,evening,Wednesday
+B,Mandalay,Member,Female,Food and beverages,283641.75,Ewallet,4.1,afternoon,Wednesday
+B,Mandalay,Member,Male,Electronic accessories,178888.5,Credit card,8.1,afternoon,Sunday
+C,Naypyitaw,Member,Female,Fashion accessories,1301422.5,Ewallet,7.9,evening,Tuesday
+C,Naypyitaw,Member,Male,Food and beverages,1007685.0,Cash,9.5,morning,Sunday
+A,Yangon,Member,Female,Food and beverages,351146.25,Cash,8.5,afternoon,Sunday
+B,Mandalay,Member,Female,Fashion accessories,112581.0,Ewallet,6.5,afternoon,Friday
+C,Naypyitaw,Member,Male,Fashion accessories,24302.25,Credit card,6.1,afternoon,Friday
+B,Mandalay,Normal,Male,Home and lifestyle,50904.0,Ewallet,6.5,morning,Thursday
+C,Naypyitaw,Normal,Female,Electronic accessories,1083348.0,Cash,8.2,evening,Thursday
+A,Yangon,Member,Male,Home and lifestyle,139671.0,Cash,5.8,morning,Wednesday
+A,Yangon,Normal,Male,Health and beauty,1128960.0,Ewallet,6.6,morning,Thursday
+A,Yangon,Member,Female,Home and lifestyle,1139512.5,Cash,5.4,afternoon,Sunday
+C,Naypyitaw,Normal,Male,Electronic accessories,289264.5,Cash,9.3,evening,Tuesday
+C,Naypyitaw,Member,Female,Sports and travel,116896.5,Credit card,10.0,evening,Friday
+C,Naypyitaw,Normal,Male,Home and lifestyle,526648.5,Ewallet,7.0,morning,Sunday
+B,Mandalay,Member,Female,Sports and travel,780617.2500000001,Ewallet,10.0,afternoon,Sunday
+A,Yangon,Member,Male,Sports and travel,249007.5,Credit card,8.6,afternoon,Wednesday
+B,Mandalay,Member,Male,Health and beauty,477162.0,Cash,7.6,afternoon,Thursday
+A,Yangon,Member,Male,Health and beauty,249952.5,Cash,5.8,evening,Wednesday
+C,Naypyitaw,Normal,Female,Health and beauty,105430.50000000001,Ewallet,6.7,afternoon,Sunday
+B,Mandalay,Member,Female,Fashion accessories,922414.5,Ewallet,9.9,afternoon,Monday
+A,Yangon,Normal,Male,Sports and travel,1240627.5,Cash,6.4,morning,Thursday
+A,Yangon,Member,Female,Health and beauty,28869.75,Cash,4.3,evening,Saturday
+C,Naypyitaw,Normal,Male,Food and beverages,1409310.0,Credit card,9.6,afternoon,Sunday
+C,Naypyitaw,Normal,Male,Fashion accessories,978390.0,Cash,5.9,evening,Monday
+B,Mandalay,Member,Female,Food and beverages,229257.0,Ewallet,4.0,evening,Tuesday
+C,Naypyitaw,Normal,Female,Electronic accessories,717349.5,Cash,8.7,evening,Saturday
+A,Yangon,Normal,Male,Home and lifestyle,1058447.25,Ewallet,9.4,morning,Tuesday
+C,Naypyitaw,Normal,Female,Electronic accessories,655987.5,Credit card,5.4,evening,Sunday
+C,Naypyitaw,Member,Male,Fashion accessories,695142.0,Credit card,8.6,afternoon,Wednesday
+A,Yangon,Member,Female,Fashion accessories,283641.75,Credit card,5.7,afternoon,Saturday
+C,Naypyitaw,Member,Female,Food and beverages,1233382.5,Ewallet,6.6,evening,Tuesday
+C,Naypyitaw,Normal,Female,Health and beauty,160492.5,Cash,6.0,evening,Tuesday
+C,Naypyitaw,Normal,Female,Health and beauty,937345.5000000001,Credit card,5.5,afternoon,Monday
+B,Mandalay,Normal,Female,Food and beverages,456812.99999999994,Ewallet,6.4,evening,Saturday
+C,Naypyitaw,Normal,Male,Food and beverages,242549.99999999997,Ewallet,6.6,evening,Wednesday
+C,Naypyitaw,Member,Female,Food and beverages,506268.0,Credit card,8.3,evening,Saturday
+C,Naypyitaw,Member,Male,Sports and travel,385166.24999999994,Cash,6.6,morning,Saturday
+C,Naypyitaw,Normal,Female,Sports and travel,915736.5,Ewallet,4.0,afternoon,Tuesday
+C,Naypyitaw,Normal,Male,Fashion accessories,602595.0,Cash,9.9,morning,Monday
+A,Yangon,Member,Male,Food and beverages,544414.5,Credit card,7.3,evening,Wednesday
+A,Yangon,Normal,Male,Sports and travel,66890.25,Cash,5.7,evening,Wednesday
+B,Mandalay,Normal,Female,Health and beauty,727555.5,Cash,6.1,evening,Wednesday
+C,Naypyitaw,Member,Female,Home and lifestyle,298494.0,Cash,7.1,morning,Wednesday
+C,Naypyitaw,Normal,Female,Sports and travel,706545.0,Ewallet,8.2,evening,Saturday
+A,Yangon,Member,Female,Sports and travel,242329.5,Ewallet,5.1,evening,Thursday
+B,Mandalay,Member,Male,Health and beauty,912303.0,Credit card,8.6,afternoon,Tuesday
+C,Naypyitaw,Normal,Male,Health and beauty,141356.25,Credit card,6.6,evening,Wednesday
+A,Yangon,Normal,Male,Electronic accessories,153027.0,Ewallet,7.2,evening,Friday
+B,Mandalay,Normal,Male,Health and beauty,1383952.5,Ewallet,5.1,morning,Friday
+C,Naypyitaw,Normal,Female,Electronic accessories,117652.5,Cash,4.1,afternoon,Saturday
+A,Yangon,Normal,Male,Food and beverages,249243.75,Ewallet,9.3,morning,Saturday
+B,Mandalay,Normal,Male,Home and lifestyle,781515.0,Cash,7.4,evening,Tuesday
+C,Naypyitaw,Member,Male,Fashion accessories,76718.25,Cash,4.1,evening,Tuesday
+C,Naypyitaw,Normal,Male,Fashion accessories,1113446.25,Cash,7.2,afternoon,Friday
+C,Naypyitaw,Normal,Female,Electronic accessories,327017.25,Cash,4.9,morning,Friday
+A,Yangon,Normal,Male,Food and beverages,550557.0,Cash,9.9,evening,Thursday
+B,Mandalay,Normal,Male,Health and beauty,334608.75,Cash,8.0,evening,Tuesday
+A,Yangon,Member,Male,Electronic accessories,1396552.5,Ewallet,7.3,afternoon,Saturday
+C,Naypyitaw,Normal,Male,Fashion accessories,258741.0,Credit card,7.9,evening,Saturday
+A,Yangon,Normal,Male,Sports and travel,587128.5,Cash,7.4,evening,Friday
+C,Naypyitaw,Normal,Female,Food and beverages,481666.5,Cash,4.2,morning,Sunday
+C,Naypyitaw,Member,Male,Electronic accessories,1291027.5,Cash,9.2,afternoon,Sunday
+B,Mandalay,Member,Female,Sports and travel,51943.5,Ewallet,4.6,morning,Tuesday
+C,Naypyitaw,Member,Female,Health and beauty,464042.24999999994,Credit card,7.8,morning,Tuesday
+B,Mandalay,Normal,Female,Fashion accessories,803061.0,Cash,8.4,afternoon,Friday
+A,Yangon,Member,Male,Home and lifestyle,823142.2499999999,Ewallet,4.3,evening,Saturday
+C,Naypyitaw,Member,Female,Home and lifestyle,1145198.25,Credit card,9.5,evening,Friday
+C,Naypyitaw,Normal,Female,Fashion accessories,127669.5,Credit card,7.1,afternoon,Saturday
+B,Mandalay,Member,Male,Fashion accessories,172777.5,Ewallet,5.3,afternoon,Tuesday
+B,Mandalay,Member,Male,Fashion accessories,80892.0,Ewallet,5.2,afternoon,Wednesday
+A,Yangon,Normal,Female,Food and beverages,172620.0,Ewallet,6.0,evening,Saturday
+B,Mandalay,Normal,Male,Home and lifestyle,168336.0,Ewallet,4.1,evening,Sunday
+A,Yangon,Normal,Female,Electronic accessories,1254456.0,Credit card,5.2,evening,Thursday
+C,Naypyitaw,Member,Male,Sports and travel,629748.0,Credit card,6.5,afternoon,Saturday
+B,Mandalay,Member,Male,Sports and travel,1416933.0,Credit card,4.2,evening,Saturday
+C,Naypyitaw,Member,Male,Home and lifestyle,805266.0000000001,Credit card,4.6,evening,Wednesday
+B,Mandalay,Member,Female,Fashion accessories,711522.0,Ewallet,7.3,afternoon,Saturday
+A,Yangon,Normal,Female,Home and lifestyle,1032932.25,Credit card,4.5,evening,Sunday
+A,Yangon,Normal,Female,Sports and travel,253968.75,Cash,9.0,afternoon,Sunday
+C,Naypyitaw,Normal,Female,Fashion accessories,449772.75,Credit card,5.9,evening,Tuesday
+C,Naypyitaw,Member,Female,Food and beverages,863604.0,Ewallet,8.5,afternoon,Tuesday
+B,Mandalay,Normal,Female,Sports and travel,1279719.0,Ewallet,7.2,morning,Friday
+B,Mandalay,Normal,Female,Fashion accessories,436810.5,Cash,7.5,afternoon,Friday
+A,Yangon,Member,Female,Sports and travel,870628.5,Cash,8.3,evening,Wednesday
+B,Mandalay,Normal,Female,Sports and travel,219492.0,Cash,7.4,evening,Sunday
+B,Mandalay,Member,Male,Electronic accessories,826402.4999999999,Credit card,8.8,afternoon,Sunday
+C,Naypyitaw,Normal,Female,Health and beauty,768285.0000000001,Ewallet,5.3,evening,Friday
+C,Naypyitaw,Normal,Male,Fashion accessories,426289.5,Cash,6.2,evening,Monday
+A,Yangon,Normal,Female,Electronic accessories,207191.25,Credit card,8.8,evening,Friday
+A,Yangon,Member,Female,Home and lifestyle,325269.0,Cash,9.8,afternoon,Monday
+B,Mandalay,Normal,Male,Sports and travel,817582.4999999999,Cash,8.2,afternoon,Saturday
+A,Yangon,Normal,Male,Sports and travel,913500.0,Ewallet,9.2,evening,Saturday
+C,Naypyitaw,Member,Female,Sports and travel,1414350.0,Credit card,5.4,afternoon,Wednesday
+C,Naypyitaw,Member,Male,Health and beauty,1425375.0,Cash,8.1,afternoon,Friday
+C,Naypyitaw,Member,Female,Health and beauty,1080450.0,Cash,9.1,evening,Tuesday
+C,Naypyitaw,Member,Female,Food and beverages,47895.75,Credit card,8.4,morning,Friday
+A,Yangon,Normal,Female,Home and lifestyle,736627.5,Ewallet,8.0,evening,Monday
+C,Naypyitaw,Normal,Female,Health and beauty,437157.0,Credit card,9.5,evening,Friday
+A,Yangon,Member,Female,Fashion accessories,474705.00000000006,Ewallet,9.2,afternoon,Sunday
+C,Naypyitaw,Normal,Male,Health and beauty,416682.0,Credit card,5.6,afternoon,Tuesday
+B,Mandalay,Member,Male,Home and lifestyle,905436.0,Credit card,6.2,afternoon,Wednesday
+A,Yangon,Normal,Male,Health and beauty,408996.0,Credit card,4.9,afternoon,Wednesday
+B,Mandalay,Member,Female,Fashion accessories,576702.0,Credit card,4.8,evening,Saturday
+C,Naypyitaw,Member,Male,Sports and travel,381024.0,Credit card,7.3,evening,Monday
+A,Yangon,Normal,Male,Fashion accessories,1179927.0,Credit card,7.4,morning,Tuesday
+C,Naypyitaw,Normal,Female,Food and beverages,155736.0,Ewallet,9.9,evening,Thursday
+C,Naypyitaw,Normal,Female,Sports and travel,1020222.0,Cash,9.3,afternoon,Monday
+A,Yangon,Member,Male,Food and beverages,726783.75,Credit card,9.0,afternoon,Wednesday
+B,Mandalay,Member,Male,Electronic accessories,113667.74999999999,Cash,6.1,evening,Friday
+B,Mandalay,Normal,Male,Home and lifestyle,395955.00000000006,Ewallet,9.7,afternoon,Thursday
+B,Mandalay,Member,Male,Health and beauty,1378093.5,Ewallet,6.0,afternoon,Saturday
+B,Mandalay,Normal,Male,Sports and travel,882535.5,Ewallet,10.0,evening,Wednesday
+C,Naypyitaw,Normal,Female,Food and beverages,544068.0,Credit card,8.3,evening,Saturday
+A,Yangon,Normal,Male,Sports and travel,100311.75,Cash,6.0,evening,Monday
+A,Yangon,Normal,Male,Food and beverages,504834.75000000006,Credit card,7.0,evening,Wednesday
+C,Naypyitaw,Normal,Male,Sports and travel,240660.0,Ewallet,6.5,evening,Wednesday
+B,Mandalay,Normal,Male,Food and beverages,628425.0,Credit card,5.9,afternoon,Wednesday
+B,Mandalay,Member,Male,Health and beauty,536382.0,Ewallet,5.6,afternoon,Monday
+C,Naypyitaw,Normal,Male,Home and lifestyle,1505385.0,Cash,4.8,afternoon,Wednesday
+A,Yangon,Normal,Male,Fashion accessories,1558935.0,Credit card,8.7,evening,Friday
+A,Yangon,Normal,Male,Food and beverages,484596.00000000006,Cash,6.5,evening,Saturday
+A,Yangon,Member,Male,Sports and travel,766458.0,Credit card,8.5,afternoon,Friday
+A,Yangon,Normal,Male,Health and beauty,551328.75,Ewallet,5.5,morning,Thursday
+B,Mandalay,Member,Male,Food and beverages,630393.75,Credit card,9.4,afternoon,Saturday
+C,Naypyitaw,Normal,Male,Electronic accessories,262710.0,Cash,6.3,evening,Sunday
+B,Mandalay,Member,Male,Electronic accessories,499810.5,Credit card,9.8,evening,Saturday
+B,Mandalay,Normal,Male,Food and beverages,249353.99999999997,Ewallet,8.7,afternoon,Friday
+A,Yangon,Member,Male,Home and lifestyle,479682.0,Ewallet,8.8,evening,Thursday
+A,Yangon,Member,Male,Food and beverages,279342.0,Credit card,9.6,evening,Sunday
+C,Naypyitaw,Normal,Female,Fashion accessories,248172.75,Credit card,4.8,morning,Wednesday
+A,Yangon,Normal,Male,Food and beverages,698166.0,Ewallet,4.4,evening,Saturday
+C,Naypyitaw,Member,Male,Health and beauty,410130.0,Ewallet,9.9,evening,Monday
+C,Naypyitaw,Normal,Male,Fashion accessories,708466.5,Cash,5.7,morning,Saturday
+C,Naypyitaw,Member,Male,Food and beverages,484722.00000000006,Cash,7.7,morning,Wednesday
+A,Yangon,Member,Male,Sports and travel,244125.0,Ewallet,8.0,morning,Saturday
+C,Naypyitaw,Normal,Male,Health and beauty,432306.0,Ewallet,5.7,afternoon,Friday
+A,Yangon,Normal,Female,Sports and travel,136048.5,Credit card,6.7,morning,Monday
+B,Mandalay,Member,Male,Food and beverages,85428.0,Ewallet,8.0,evening,Tuesday
+B,Mandalay,Member,Female,Home and lifestyle,1190574.0,Ewallet,7.5,evening,Sunday
+B,Mandalay,Member,Male,Home and lifestyle,292761.0,Cash,7.0,morning,Friday
+A,Yangon,Normal,Male,Home and lifestyle,116660.25,Ewallet,9.9,afternoon,Sunday
+C,Naypyitaw,Normal,Female,Home and lifestyle,439803.0,Credit card,5.9,evening,Monday
+B,Mandalay,Normal,Female,Home and lifestyle,364014.0,Credit card,7.2,morning,Monday
+B,Mandalay,Normal,Female,Fashion accessories,231588.0,Ewallet,4.6,afternoon,Tuesday
+C,Naypyitaw,Normal,Female,Food and beverages,1244565.0,Cash,9.2,evening,Saturday
+B,Mandalay,Normal,Male,Home and lifestyle,160965.0,Ewallet,5.7,evening,Saturday
+A,Yangon,Normal,Male,Electronic accessories,257591.25,Credit card,9.9,morning,Tuesday
+C,Naypyitaw,Member,Female,Fashion accessories,117006.74999999999,Cash,5.0,evening,Sunday
+C,Naypyitaw,Member,Male,Health and beauty,137655.0,Cash,4.9,evening,Tuesday
+A,Yangon,Normal,Female,Home and lifestyle,39831.75,Ewallet,6.1,morning,Saturday
+C,Naypyitaw,Normal,Male,Health and beauty,261450.00000000003,Credit card,8.2,evening,Tuesday
+C,Naypyitaw,Member,Female,Food and beverages,562196.25,Credit card,5.5,evening,Sunday
+C,Naypyitaw,Member,Female,Sports and travel,180967.5,Credit card,6.8,morning,Tuesday
+B,Mandalay,Member,Female,Electronic accessories,362187.0,Cash,6.6,morning,Friday
+C,Naypyitaw,Normal,Male,Electronic accessories,677045.25,Cash,9.8,morning,Monday
+B,Mandalay,Member,Male,Health and beauty,407925.0,Ewallet,8.7,afternoon,Wednesday
+B,Mandalay,Member,Male,Home and lifestyle,139938.75,Credit card,5.4,afternoon,Friday
+A,Yangon,Normal,Female,Health and beauty,326450.25,Ewallet,7.9,afternoon,Thursday
+C,Naypyitaw,Member,Female,Electronic accessories,944763.75,Credit card,9.7,evening,Friday
+C,Naypyitaw,Member,Female,Home and lifestyle,449347.5,Ewallet,7.8,evening,Monday
+B,Mandalay,Normal,Female,Fashion accessories,143498.25,Ewallet,5.1,afternoon,Thursday
+B,Mandalay,Normal,Female,Electronic accessories,1413672.75,Credit card,6.5,evening,Saturday
+A,Yangon,Normal,Male,Electronic accessories,371810.25,Ewallet,5.9,evening,Friday
+C,Naypyitaw,Normal,Female,Food and beverages,1321960.5,Cash,8.8,evening,Wednesday
+B,Mandalay,Normal,Male,Home and lifestyle,727335.0,Ewallet,4.9,evening,Wednesday
+B,Mandalay,Normal,Male,Sports and travel,219334.50000000003,Credit card,4.4,afternoon,Friday
+B,Mandalay,Member,Female,Sports and travel,326450.25,Cash,6.5,afternoon,Monday
+A,Yangon,Normal,Male,Home and lifestyle,28791.0,Credit card,8.3,afternoon,Friday
+B,Mandalay,Normal,Female,Sports and travel,195063.74999999997,Cash,8.5,evening,Sunday
+A,Yangon,Member,Female,Electronic accessories,447174.0,Cash,5.5,evening,Thursday
+B,Mandalay,Normal,Male,Fashion accessories,1195362.0,Ewallet,8.7,afternoon,Tuesday
+B,Mandalay,Normal,Female,Food and beverages,270931.5,Credit card,7.9,evening,Sunday
+B,Mandalay,Normal,Male,Electronic accessories,428557.5,Ewallet,6.1,afternoon,Thursday
+B,Mandalay,Normal,Male,Food and beverages,684432.0,Ewallet,5.4,afternoon,Wednesday
+C,Naypyitaw,Normal,Male,Electronic accessories,93003.75,Cash,9.4,evening,Sunday
+C,Naypyitaw,Member,Female,Fashion accessories,19750.5,Cash,8.2,afternoon,Thursday
+A,Yangon,Normal,Male,Food and beverages,136237.5,Cash,6.2,afternoon,Wednesday
+C,Naypyitaw,Member,Female,Sports and travel,274554.0,Credit card,9.7,afternoon,Friday
+B,Mandalay,Member,Male,Health and beauty,983319.75,Ewallet,4.0,evening,Saturday
+C,Naypyitaw,Member,Male,Electronic accessories,233477.99999999997,Ewallet,9.7,evening,Thursday
+B,Mandalay,Member,Female,Electronic accessories,857115.0,Cash,5.3,morning,Tuesday
+A,Yangon,Normal,Female,Home and lifestyle,799091.9999999999,Ewallet,7.4,afternoon,Monday
+B,Mandalay,Normal,Female,Fashion accessories,256315.5,Cash,6.5,evening,Saturday
+B,Mandalay,Member,Female,Electronic accessories,50037.75,Credit card,8.7,afternoon,Tuesday
+B,Mandalay,Normal,Female,Health and beauty,1191975.75,Cash,8.0,morning,Monday
+B,Mandalay,Member,Male,Fashion accessories,465066.0,Cash,6.7,evening,Thursday
+A,Yangon,Member,Male,Health and beauty,818055.0,Ewallet,6.5,evening,Saturday
+A,Yangon,Normal,Female,Sports and travel,293391.0,Ewallet,4.1,evening,Sunday
+C,Naypyitaw,Normal,Male,Health and beauty,137103.75,Credit card,4.9,afternoon,Monday
+C,Naypyitaw,Member,Female,Fashion accessories,348232.5,Credit card,8.6,evening,Tuesday
+B,Mandalay,Member,Female,Electronic accessories,104107.5,Cash,4.3,evening,Saturday
+A,Yangon,Normal,Male,Fashion accessories,141261.75,Ewallet,4.9,morning,Friday
+A,Yangon,Normal,Male,Food and beverages,353524.5,Credit card,5.6,evening,Friday
+A,Yangon,Normal,Male,Health and beauty,188275.5,Credit card,5.8,afternoon,Monday
+C,Naypyitaw,Member,Male,Fashion accessories,293580.0,Credit card,6.0,evening,Thursday
+A,Yangon,Member,Male,Home and lifestyle,394695.0,Cash,4.2,morning,Saturday
+B,Mandalay,Normal,Male,Home and lifestyle,1182762.0,Credit card,8.3,evening,Saturday
+A,Yangon,Member,Male,Home and lifestyle,599634.0,Cash,5.7,afternoon,Tuesday
+B,Mandalay,Member,Female,Electronic accessories,384615.00000000006,Cash,4.8,evening,Saturday
+A,Yangon,Member,Male,Fashion accessories,141277.5,Ewallet,6.8,afternoon,Wednesday
+A,Yangon,Member,Male,Electronic accessories,489635.99999999994,Credit card,8.8,evening,Monday
+B,Mandalay,Normal,Male,Food and beverages,805486.5,Credit card,4.2,evening,Monday
+B,Mandalay,Member,Male,Food and beverages,659846.25,Ewallet,6.4,afternoon,Saturday
+C,Naypyitaw,Member,Male,Fashion accessories,554242.5,Credit card,8.4,evening,Sunday
+C,Naypyitaw,Normal,Female,Sports and travel,45328.5,Credit card,7.2,evening,Saturday
+A,Yangon,Normal,Male,Home and lifestyle,149625.0,Cash,5.2,morning,Saturday
+A,Yangon,Member,Male,Home and lifestyle,742140.0,Cash,8.9,morning,Sunday
+B,Mandalay,Member,Male,Fashion accessories,205506.0,Cash,9.0,afternoon,Tuesday
+A,Yangon,Member,Male,Electronic accessories,104501.25,Credit card,9.7,morning,Thursday
+A,Yangon,Member,Male,Home and lifestyle,244849.5,Ewallet,8.7,morning,Tuesday
+A,Yangon,Member,Male,Electronic accessories,203174.99999999997,Ewallet,6.5,afternoon,Wednesday
+C,Naypyitaw,Member,Male,Electronic accessories,415421.99999999994,Credit card,6.9,afternoon,Thursday
+A,Yangon,Normal,Female,Electronic accessories,1063975.5,Ewallet,6.2,afternoon,Tuesday
+C,Naypyitaw,Normal,Female,Fashion accessories,103635.0,Ewallet,5.6,afternoon,Thursday
+B,Mandalay,Member,Female,Fashion accessories,241290.00000000003,Cash,5.7,evening,Wednesday
+A,Yangon,Member,Female,Sports and travel,350280.0,Cash,4.2,morning,Saturday
+B,Mandalay,Normal,Male,Sports and travel,85758.75,Ewallet,7.9,evening,Tuesday
+A,Yangon,Member,Female,Sports and travel,1084860.0,Credit card,8.7,afternoon,Tuesday
+C,Naypyitaw,Normal,Male,Home and lifestyle,223460.99999999997,Credit card,6.9,evening,Thursday
+B,Mandalay,Member,Female,Food and beverages,1174950.0,Cash,9.5,evening,Tuesday
+A,Yangon,Member,Male,Home and lifestyle,445662.0,Credit card,4.4,evening,Saturday
+A,Yangon,Member,Female,Home and lifestyle,559755.0,Ewallet,7.0,afternoon,Friday
+B,Mandalay,Normal,Female,Sports and travel,531011.25,Ewallet,6.3,evening,Wednesday
+C,Naypyitaw,Member,Female,Health and beauty,66528.0,Cash,9.7,evening,Thursday
+A,Yangon,Member,Female,Home and lifestyle,305329.5,Credit card,8.8,morning,Monday
+A,Yangon,Normal,Female,Home and lifestyle,37894.5,Cash,5.1,afternoon,Sunday
+B,Mandalay,Normal,Female,Health and beauty,942259.5,Ewallet,7.9,evening,Tuesday
+B,Mandalay,Normal,Male,Fashion accessories,528869.25,Cash,6.2,evening,Monday
+C,Naypyitaw,Member,Female,Home and lifestyle,343665.0,Cash,7.1,evening,Monday
+C,Naypyitaw,Normal,Female,Fashion accessories,601146.0,Ewallet,6.4,afternoon,Saturday
+C,Naypyitaw,Member,Male,Fashion accessories,1118092.5,Cash,5.7,evening,Wednesday
+A,Yangon,Member,Male,Sports and travel,693315.0,Credit card,9.6,evening,Wednesday
+A,Yangon,Normal,Female,Home and lifestyle,881496.0,Credit card,6.4,evening,Friday
+C,Naypyitaw,Normal,Male,Home and lifestyle,58275.0,Credit card,7.9,afternoon,Wednesday
+A,Yangon,Normal,Female,Sports and travel,24160.5,Cash,6.5,morning,Sunday
+A,Yangon,Member,Male,Health and beauty,943393.5,Ewallet,8.5,afternoon,Monday
+A,Yangon,Member,Female,Health and beauty,300321.0,Cash,9.1,afternoon,Tuesday
+B,Mandalay,Normal,Male,Health and beauty,525105.0,Cash,7.6,evening,Wednesday
+C,Naypyitaw,Member,Male,Home and lifestyle,117904.49999999999,Cash,6.9,afternoon,Sunday
+C,Naypyitaw,Normal,Female,Sports and travel,336656.25,Cash,9.5,afternoon,Thursday
+B,Mandalay,Normal,Female,Food and beverages,534822.75,Credit card,5.2,afternoon,Friday
+A,Yangon,Member,Female,Home and lifestyle,1046052.0000000001,Cash,4.2,afternoon,Sunday
+B,Mandalay,Member,Male,Electronic accessories,634725.0,Credit card,7.0,evening,Thursday
+C,Naypyitaw,Normal,Male,Electronic accessories,307046.25,Ewallet,6.0,evening,Thursday
+A,Yangon,Member,Female,Electronic accessories,98406.0,Cash,4.7,evening,Monday
+A,Yangon,Member,Female,Food and beverages,114533.99999999999,Cash,7.1,morning,Monday
+B,Mandalay,Normal,Male,Health and beauty,285232.5,Ewallet,5.9,morning,Wednesday
+C,Naypyitaw,Member,Female,Electronic accessories,408870.0,Cash,7.5,afternoon,Sunday
+C,Naypyitaw,Normal,Male,Electronic accessories,181692.0,Cash,6.4,afternoon,Friday
+A,Yangon,Member,Male,Home and lifestyle,740691.0,Ewallet,5.8,afternoon,Thursday
+A,Yangon,Member,Male,Home and lifestyle,378063.0,Cash,4.5,afternoon,Friday
+C,Naypyitaw,Member,Female,Home and lifestyle,139560.75,Cash,7.7,morning,Saturday
+C,Naypyitaw,Normal,Male,Fashion accessories,314433.0,Credit card,6.7,evening,Wednesday
+B,Mandalay,Member,Male,Health and beauty,61440.75000000001,Credit card,4.7,evening,Tuesday
+C,Naypyitaw,Normal,Male,Food and beverages,76560.75,Cash,4.4,afternoon,Monday
+A,Yangon,Normal,Female,Electronic accessories,322497.0,Credit card,4.7,evening,Monday
+B,Mandalay,Normal,Female,Electronic accessories,188496.0,Cash,8.6,afternoon,Saturday
+A,Yangon,Member,Male,Electronic accessories,796004.9999999999,Ewallet,4.3,evening,Tuesday
+A,Yangon,Normal,Female,Sports and travel,443535.75,Cash,9.6,afternoon,Saturday
+A,Yangon,Member,Female,Home and lifestyle,1118754.0,Cash,4.1,evening,Sunday
+A,Yangon,Member,Female,Electronic accessories,125118.00000000001,Ewallet,4.7,morning,Thursday
+A,Yangon,Normal,Female,Fashion accessories,258016.5,Cash,7.8,evening,Tuesday
+B,Mandalay,Member,Male,Sports and travel,755338.5,Cash,5.5,afternoon,Thursday
+C,Naypyitaw,Member,Male,Fashion accessories,218389.49999999997,Ewallet,9.7,evening,Tuesday
+A,Yangon,Member,Female,Food and beverages,112061.25,Credit card,4.4,morning,Friday
+A,Yangon,Member,Female,Health and beauty,220421.25,Cash,5.0,afternoon,Thursday
+C,Naypyitaw,Member,Female,Electronic accessories,1230547.5,Cash,4.4,evening,Sunday
+C,Naypyitaw,Member,Male,Food and beverages,313015.5,Cash,5.2,evening,Thursday
+C,Naypyitaw,Member,Female,Food and beverages,99603.0,Cash,7.3,morning,Saturday
+C,Naypyitaw,Member,Male,Electronic accessories,588971.25,Cash,4.9,morning,Thursday
+C,Naypyitaw,Member,Female,Health and beauty,327111.75,Credit card,8.1,evening,Monday
+C,Naypyitaw,Member,Male,Health and beauty,277641.0,Ewallet,8.4,evening,Monday
+C,Naypyitaw,Normal,Female,Food and beverages,325032.75,Cash,5.5,evening,Tuesday
+C,Naypyitaw,Normal,Female,Health and beauty,62086.5,Cash,8.4,afternoon,Friday
+A,Yangon,Normal,Male,Health and beauty,144207.0,Ewallet,9.8,evening,Friday
+A,Yangon,Normal,Female,Fashion accessories,486438.75,Cash,6.7,afternoon,Friday
+A,Yangon,Normal,Male,Home and lifestyle,203364.0,Credit card,9.4,afternoon,Thursday
+B,Mandalay,Normal,Male,Sports and travel,615762.0,Ewallet,6.4,evening,Tuesday
+A,Yangon,Member,Male,Food and beverages,785767.5,Cash,5.4,evening,Saturday
+C,Naypyitaw,Member,Male,Food and beverages,593838.0,Cash,8.6,evening,Tuesday
+B,Mandalay,Member,Male,Health and beauty,322119.0,Credit card,4.0,morning,Friday
+A,Yangon,Member,Male,Electronic accessories,229067.99999999997,Cash,7.6,afternoon,Monday
+B,Mandalay,Normal,Male,Home and lifestyle,312133.5,Cash,6.8,evening,Thursday
+A,Yangon,Normal,Male,Food and beverages,155452.5,Credit card,9.1,evening,Sunday
+A,Yangon,Normal,Male,Fashion accessories,606532.5,Cash,5.5,afternoon,Sunday
+A,Yangon,Member,Male,Food and beverages,73962.0,Credit card,7.9,morning,Thursday
+C,Naypyitaw,Member,Male,Sports and travel,115762.5,Ewallet,8.5,afternoon,Sunday
+A,Yangon,Member,Female,Electronic accessories,224043.75000000003,Credit card,9.1,morning,Thursday
+A,Yangon,Normal,Male,Fashion accessories,1082970.0,Ewallet,7.5,afternoon,Tuesday
+B,Mandalay,Normal,Female,Sports and travel,547627.5,Cash,5.2,afternoon,Sunday
+C,Naypyitaw,Normal,Female,Electronic accessories,225146.25,Credit card,9.5,afternoon,Thursday
+B,Mandalay,Member,Female,Food and beverages,606973.5,Credit card,8.9,afternoon,Tuesday
+B,Mandalay,Member,Male,Electronic accessories,227225.25,Credit card,7.8,evening,Sunday
+B,Mandalay,Member,Female,Health and beauty,617069.25,Ewallet,8.9,evening,Tuesday
+B,Mandalay,Member,Female,Health and beauty,847822.5,Cash,7.7,evening,Friday
+C,Naypyitaw,Normal,Female,Food and beverages,764111.25,Ewallet,9.3,evening,Wednesday
+A,Yangon,Normal,Male,Sports and travel,210971.25,Cash,6.2,afternoon,Thursday
+A,Yangon,Normal,Female,Fashion accessories,1104657.75,Ewallet,7.6,evening,Wednesday
+A,Yangon,Member,Male,Electronic accessories,113321.25,Cash,7.3,afternoon,Monday
+C,Naypyitaw,Member,Female,Home and lifestyle,1124550.0,Cash,4.7,morning,Sunday
+A,Yangon,Normal,Male,Electronic accessories,286870.5,Cash,5.1,evening,Thursday
+B,Mandalay,Normal,Female,Health and beauty,212625.0,Credit card,4.8,morning,Wednesday
+C,Naypyitaw,Member,Female,Fashion accessories,1563975.0000000002,Credit card,6.6,afternoon,Friday
+A,Yangon,Normal,Male,Electronic accessories,569882.25,Cash,5.5,evening,Saturday
+B,Mandalay,Member,Female,Fashion accessories,603398.25,Credit card,8.5,evening,Thursday
+B,Mandalay,Member,Male,Home and lifestyle,382725.0,Cash,4.8,afternoon,Saturday
+C,Naypyitaw,Normal,Female,Electronic accessories,47628.0,Cash,8.4,afternoon,Monday
+B,Mandalay,Member,Female,Food and beverages,561582.0,Credit card,7.8,afternoon,Monday
+C,Naypyitaw,Normal,Female,Fashion accessories,591412.5,Credit card,9.3,evening,Friday
+C,Naypyitaw,Normal,Female,Sports and travel,1503180.0,Cash,5.2,afternoon,Wednesday
+B,Mandalay,Normal,Male,Electronic accessories,129937.5,Ewallet,6.5,afternoon,Friday
+B,Mandalay,Normal,Male,Sports and travel,118077.75000000001,Cash,5.6,evening,Saturday
+A,Yangon,Member,Male,Food and beverages,1020096.0,Credit card,7.4,morning,Sunday
+C,Naypyitaw,Normal,Female,Food and beverages,1190322.0,Cash,9.1,afternoon,Wednesday
+C,Naypyitaw,Normal,Male,Food and beverages,314338.5,Ewallet,8.0,evening,Thursday
+A,Yangon,Normal,Male,Home and lifestyle,691929.0,Cash,7.2,evening,Monday
+C,Naypyitaw,Normal,Female,Food and beverages,259812.0,Cash,7.1,evening,Tuesday
+C,Naypyitaw,Normal,Female,Fashion accessories,514584.0,Cash,9.1,afternoon,Sunday
+C,Naypyitaw,Normal,Female,Electronic accessories,727461.0,Cash,5.6,evening,Thursday
+A,Yangon,Member,Male,Home and lifestyle,415421.99999999994,Cash,6.0,morning,Sunday
+C,Naypyitaw,Normal,Female,Sports and travel,226170.0,Cash,5.4,afternoon,Sunday
+A,Yangon,Member,Male,Electronic accessories,304762.5,Credit card,7.8,afternoon,Wednesday
+B,Mandalay,Member,Female,Electronic accessories,289516.5,Cash,9.9,evening,Saturday
+B,Mandalay,Normal,Female,Fashion accessories,192024.0,Credit card,4.9,evening,Friday
+C,Naypyitaw,Normal,Female,Home and lifestyle,662539.5,Ewallet,5.2,evening,Thursday
+C,Naypyitaw,Normal,Male,Fashion accessories,397656.0,Cash,8.9,afternoon,Tuesday
+A,Yangon,Normal,Female,Home and lifestyle,528333.75,Credit card,9.1,evening,Thursday
+A,Yangon,Member,Female,Fashion accessories,761512.5,Ewallet,7.0,afternoon,Monday
+B,Mandalay,Member,Female,Home and lifestyle,501511.5,Credit card,9.6,evening,Saturday
+C,Naypyitaw,Normal,Male,Sports and travel,1052777.25,Ewallet,8.7,evening,Friday
+C,Naypyitaw,Member,Male,Fashion accessories,610974.0,Ewallet,9.4,evening,Wednesday
+B,Mandalay,Normal,Female,Electronic accessories,148995.0,Credit card,4.0,afternoon,Wednesday
+A,Yangon,Member,Male,Sports and travel,518679.0,Credit card,7.5,morning,Friday
+C,Naypyitaw,Normal,Female,Electronic accessories,83821.5,Cash,4.2,afternoon,Tuesday
+B,Mandalay,Normal,Female,Food and beverages,785058.7499999999,Cash,9.9,afternoon,Monday
+C,Naypyitaw,Member,Female,Food and beverages,471807.0,Ewallet,4.2,afternoon,Friday
+A,Yangon,Normal,Female,Food and beverages,322402.5,Ewallet,9.9,afternoon,Sunday
+B,Mandalay,Member,Male,Sports and travel,119416.5,Cash,5.8,afternoon,Thursday
+C,Naypyitaw,Normal,Male,Food and beverages,441976.5,Cash,6.0,afternoon,Monday
+A,Yangon,Normal,Female,Health and beauty,509040.0,Credit card,10.0,evening,Wednesday
+C,Naypyitaw,Member,Female,Fashion accessories,766442.25,Ewallet,9.5,afternoon,Sunday
+B,Mandalay,Normal,Male,Food and beverages,200875.5,Credit card,6.6,afternoon,Sunday
+C,Naypyitaw,Member,Female,Fashion accessories,380268.0,Cash,8.1,afternoon,Friday
+B,Mandalay,Normal,Female,Fashion accessories,597712.5,Cash,9.7,afternoon,Saturday
+A,Yangon,Member,Male,Electronic accessories,120991.5,Ewallet,7.2,evening,Wednesday
+A,Yangon,Member,Female,Sports and travel,823095.0,Credit card,6.2,afternoon,Saturday
+A,Yangon,Normal,Female,Health and beauty,125590.5,Ewallet,7.3,morning,Wednesday
+A,Yangon,Normal,Female,Health and beauty,610312.5,Ewallet,4.3,evening,Thursday
+A,Yangon,Normal,Female,Food and beverages,427376.25,Ewallet,4.6,afternoon,Wednesday
+B,Mandalay,Normal,Male,Home and lifestyle,192638.25,Cash,5.8,morning,Friday
+B,Mandalay,Member,Female,Health and beauty,388017.0,Credit card,8.3,afternoon,Tuesday
+B,Mandalay,Member,Male,Electronic accessories,272727.0,Cash,8.0,evening,Monday
+C,Naypyitaw,Normal,Female,Food and beverages,372613.5,Credit card,9.4,evening,Monday
+C,Naypyitaw,Normal,Male,Home and lifestyle,291186.0,Credit card,6.2,evening,Tuesday
+C,Naypyitaw,Member,Male,Home and lifestyle,22018.5,Ewallet,9.8,afternoon,Monday
+B,Mandalay,Normal,Female,Fashion accessories,313031.25,Ewallet,9.6,morning,Friday
+C,Naypyitaw,Member,Female,Fashion accessories,1078134.75,Ewallet,4.9,evening,Saturday
+A,Yangon,Member,Male,Sports and travel,423738.0,Credit card,8.0,afternoon,Saturday
+A,Yangon,Normal,Male,Food and beverages,108596.24999999999,Credit card,7.8,evening,Friday
+B,Mandalay,Member,Female,Fashion accessories,432873.0,Cash,4.1,evening,Friday
+A,Yangon,Normal,Female,Home and lifestyle,356139.0,Ewallet,5.5,evening,Monday
+C,Naypyitaw,Normal,Female,Fashion accessories,187582.5,Ewallet,5.4,evening,Monday
+B,Mandalay,Normal,Female,Health and beauty,538807.5,Cash,5.1,afternoon,Wednesday
+B,Mandalay,Normal,Male,Sports and travel,68890.5,Ewallet,6.9,afternoon,Friday
+A,Yangon,Member,Male,Health and beauty,165138.75,Cash,7.8,afternoon,Friday
+A,Yangon,Normal,Male,Sports and travel,122094.0,Ewallet,6.6,evening,Sunday
+A,Yangon,Normal,Male,Home and lifestyle,641718.0,Ewallet,9.2,evening,Friday
+B,Mandalay,Normal,Male,Health and beauty,151373.25,Ewallet,7.8,evening,Friday
+C,Naypyitaw,Normal,Female,Home and lifestyle,285894.0,Credit card,8.7,afternoon,Tuesday
+C,Naypyitaw,Member,Female,Health and beauty,128378.25,Ewallet,9.2,morning,Tuesday
+B,Mandalay,Normal,Female,Health and beauty,180243.0,Ewallet,8.3,evening,Saturday
+A,Yangon,Member,Female,Electronic accessories,278050.5,Cash,8.2,morning,Monday
+C,Naypyitaw,Member,Female,Food and beverages,182385.0,Ewallet,7.5,afternoon,Thursday
+C,Naypyitaw,Normal,Female,Electronic accessories,397136.25,Cash,9.8,afternoon,Wednesday
+C,Naypyitaw,Member,Female,Fashion accessories,1531057.5,Credit card,8.7,afternoon,Friday
+B,Mandalay,Member,Male,Fashion accessories,320292.0,Credit card,6.7,evening,Tuesday
+C,Naypyitaw,Normal,Male,Fashion accessories,25641.0,Cash,5.0,afternoon,Saturday
+B,Mandalay,Member,Male,Fashion accessories,575646.75,Cash,7.0,afternoon,Wednesday
+A,Yangon,Member,Male,Health and beauty,586199.25,Cash,8.9,evening,Monday
+B,Mandalay,Member,Female,Food and beverages,98610.75,Credit card,8.0,afternoon,Wednesday
+B,Mandalay,Normal,Male,Sports and travel,529751.25,Cash,6.9,evening,Wednesday
+A,Yangon,Member,Female,Home and lifestyle,1427737.5,Ewallet,7.3,morning,Friday
+B,Mandalay,Normal,Male,Fashion accessories,217602.00000000003,Credit card,6.9,evening,Thursday
+C,Naypyitaw,Normal,Male,Food and beverages,136300.5,Ewallet,5.7,evening,Friday
+A,Yangon,Normal,Female,Electronic accessories,221697.0,Ewallet,6.4,evening,Sunday
+B,Mandalay,Normal,Male,Fashion accessories,1053328.5,Credit card,9.6,afternoon,Saturday
+B,Mandalay,Normal,Female,Fashion accessories,74718.0,Credit card,6.8,evening,Friday
+C,Naypyitaw,Normal,Male,Sports and travel,1406727.0,Ewallet,9.0,evening,Tuesday
+C,Naypyitaw,Member,Male,Sports and travel,522459.0,Ewallet,9.6,evening,Sunday
+A,Yangon,Normal,Male,Home and lifestyle,321205.5,Credit card,7.7,afternoon,Friday
+C,Naypyitaw,Member,Male,Food and beverages,107352.0,Ewallet,7.0,evening,Friday
+C,Naypyitaw,Normal,Female,Electronic accessories,514836.0,Credit card,6.5,afternoon,Thursday
+C,Naypyitaw,Member,Male,Food and beverages,137340.0,Cash,8.1,evening,Tuesday
+B,Mandalay,Member,Female,Sports and travel,1114218.0,Credit card,4.3,evening,Friday
+A,Yangon,Member,Female,Home and lifestyle,1264551.75,Credit card,6.5,afternoon,Tuesday
+C,Naypyitaw,Normal,Male,Fashion accessories,20128.5,Ewallet,9.5,afternoon,Tuesday
+A,Yangon,Normal,Female,Sports and travel,210577.5,Cash,9.7,morning,Tuesday
+B,Mandalay,Member,Female,Health and beauty,30161.250000000004,Credit card,9.5,evening,Monday
+C,Naypyitaw,Member,Male,Food and beverages,435645.0,Credit card,8.9,morning,Thursday
+C,Naypyitaw,Normal,Male,Fashion accessories,216121.49999999997,Credit card,6.5,evening,Sunday
+B,Mandalay,Member,Female,Health and beauty,42635.25,Credit card,5.3,evening,Saturday
+B,Mandalay,Member,Female,Sports and travel,61614.0,Credit card,9.6,morning,Tuesday
+B,Mandalay,Normal,Female,Electronic accessories,706009.5,Cash,6.7,evening,Tuesday
+B,Mandalay,Normal,Male,Electronic accessories,207994.50000000003,Cash,7.6,evening,Wednesday
+A,Yangon,Normal,Female,Food and beverages,500928.75,Ewallet,4.8,afternoon,Saturday
+A,Yangon,Normal,Male,Health and beauty,39375.0,Ewallet,5.5,afternoon,Sunday
+A,Yangon,Member,Male,Electronic accessories,130850.99999999999,Cash,4.7,afternoon,Thursday
+B,Mandalay,Member,Female,Fashion accessories,232785.0,Cash,6.9,evening,Wednesday
+B,Mandalay,Member,Female,Food and beverages,1097145.0,Credit card,4.5,afternoon,Friday
+B,Mandalay,Normal,Male,Electronic accessories,1250392.5,Cash,6.2,evening,Thursday
+C,Naypyitaw,Member,Female,Electronic accessories,733477.5,Cash,7.6,afternoon,Sunday
+C,Naypyitaw,Normal,Male,Food and beverages,56526.75,Credit card,7.9,evening,Saturday
+C,Naypyitaw,Normal,Male,Food and beverages,319095.0,Cash,4.5,afternoon,Sunday
+B,Mandalay,Member,Female,Food and beverages,1150537.5,Credit card,8.7,afternoon,Sunday
+C,Naypyitaw,Normal,Female,Sports and travel,465884.99999999994,Cash,6.1,morning,Sunday
+C,Naypyitaw,Member,Female,Food and beverages,35626.5,Cash,6.4,evening,Sunday
+A,Yangon,Member,Male,Food and beverages,404302.50000000006,Credit card,9.1,afternoon,Thursday
+C,Naypyitaw,Member,Female,Sports and travel,859162.5,Credit card,7.1,morning,Saturday
+C,Naypyitaw,Member,Female,Health and beauty,409578.75,Credit card,7.7,afternoon,Friday
+B,Mandalay,Normal,Male,Sports and travel,349839.0,Cash,4.5,evening,Friday
+C,Naypyitaw,Normal,Male,Food and beverages,33988.5,Ewallet,7.2,morning,Saturday
+C,Naypyitaw,Member,Female,Electronic accessories,155673.0,Cash,8.4,morning,Friday
+C,Naypyitaw,Member,Female,Home and lifestyle,791626.5,Ewallet,5.4,afternoon,Wednesday
+A,Yangon,Member,Female,Sports and travel,252315.0,Cash,9.7,morning,Friday
+A,Yangon,Member,Male,Fashion accessories,679297.5,Credit card,5.5,evening,Saturday
+B,Mandalay,Member,Male,Health and beauty,914382.0,Cash,4.6,evening,Saturday
+A,Yangon,Member,Female,Electronic accessories,507465.0,Cash,6.6,evening,Saturday
+A,Yangon,Normal,Male,Health and beauty,307975.5,Credit card,6.3,evening,Monday
+A,Yangon,Normal,Female,Sports and travel,261922.5,Credit card,4.2,evening,Monday
+C,Naypyitaw,Normal,Male,Electronic accessories,529641.0,Ewallet,4.4,evening,Thursday
+B,Mandalay,Normal,Male,Sports and travel,541327.5,Ewallet,6.7,morning,Saturday
+A,Yangon,Normal,Male,Electronic accessories,60795.0,Ewallet,6.7,morning,Tuesday
+C,Naypyitaw,Normal,Male,Food and beverages,831222.0,Cash,8.4,evening,Saturday
+C,Naypyitaw,Normal,Female,Electronic accessories,516599.99999999994,Cash,6.2,afternoon,Friday
+A,Yangon,Normal,Male,Sports and travel,292477.5,Ewallet,5.0,afternoon,Tuesday
+B,Mandalay,Member,Male,Home and lifestyle,950985.0,Cash,6.0,evening,Tuesday
+C,Naypyitaw,Member,Female,Sports and travel,582435.0,Credit card,7.0,evening,Tuesday
+B,Mandalay,Member,Female,Sports and travel,311787.0,Ewallet,6.6,afternoon,Thursday
+B,Mandalay,Normal,Female,Fashion accessories,647167.5,Cash,7.3,afternoon,Thursday
+A,Yangon,Normal,Male,Fashion accessories,234045.0,Ewallet,8.3,evening,Saturday
+C,Naypyitaw,Normal,Male,Home and lifestyle,36162.0,Cash,4.3,evening,Wednesday
+B,Mandalay,Member,Female,Home and lifestyle,1101114.0,Ewallet,9.8,afternoon,Monday
+B,Mandalay,Normal,Female,Fashion accessories,109305.0,Ewallet,8.2,evening,Wednesday
+A,Yangon,Member,Female,Fashion accessories,309645.0,Credit card,7.2,evening,Friday
+B,Mandalay,Member,Female,Health and beauty,319032.0,Ewallet,8.7,evening,Tuesday
+C,Naypyitaw,Member,Female,Home and lifestyle,190890.0,Credit card,8.4,afternoon,Tuesday
+B,Mandalay,Normal,Male,Fashion accessories,314653.5,Ewallet,7.1,morning,Tuesday
+B,Mandalay,Normal,Male,Sports and travel,956591.9999999999,Cash,5.5,afternoon,Wednesday
+C,Naypyitaw,Normal,Female,Electronic accessories,199143.0,Cash,8.5,afternoon,Tuesday
+C,Naypyitaw,Normal,Female,Food and beverages,852767.9999999999,Cash,6.2,morning,Sunday
+B,Mandalay,Member,Female,Sports and travel,154554.75,Cash,8.9,evening,Monday
+A,Yangon,Member,Female,Sports and travel,649152.0,Cash,9.6,afternoon,Saturday
+B,Mandalay,Member,Male,Sports and travel,116502.74999999999,Credit card,5.4,afternoon,Sunday
+C,Naypyitaw,Member,Female,Fashion accessories,50242.49999999999,Ewallet,9.1,afternoon,Saturday
+C,Naypyitaw,Normal,Male,Home and lifestyle,218610.0,Ewallet,9.0,evening,Sunday
+B,Mandalay,Normal,Female,Sports and travel,293926.5,Cash,6.3,evening,Monday
+B,Mandalay,Normal,Male,Sports and travel,139308.75,Credit card,9.5,evening,Monday
+A,Yangon,Member,Male,Electronic accessories,304668.0,Ewallet,9.8,evening,Monday
+B,Mandalay,Member,Female,Sports and travel,229162.5,Cash,6.7,afternoon,Tuesday
+B,Mandalay,Normal,Female,Food and beverages,794272.5,Credit card,7.7,morning,Tuesday
+B,Mandalay,Member,Male,Health and beauty,482658.74999999994,Cash,7.0,afternoon,Friday
+C,Naypyitaw,Member,Female,Home and lifestyle,150727.5,Credit card,5.1,evening,Saturday
+B,Mandalay,Member,Female,Sports and travel,1000408.5,Credit card,6.2,evening,Wednesday
+A,Yangon,Normal,Female,Home and lifestyle,337916.25,Ewallet,6.1,evening,Saturday
+A,Yangon,Normal,Female,Fashion accessories,598437.0,Ewallet,9.3,evening,Sunday
+A,Yangon,Normal,Male,Electronic accessories,1097538.75,Cash,7.6,afternoon,Thursday
+C,Naypyitaw,Member,Male,Sports and travel,643749.75,Credit card,8.2,evening,Saturday
+C,Naypyitaw,Member,Female,Fashion accessories,81065.25,Ewallet,8.5,afternoon,Monday
+B,Mandalay,Member,Male,Health and beauty,432022.5,Ewallet,9.8,evening,Friday
+C,Naypyitaw,Member,Male,Home and lifestyle,310196.25,Credit card,8.7,evening,Tuesday
+A,Yangon,Normal,Male,Home and lifestyle,109399.50000000001,Ewallet,9.7,evening,Friday
+C,Naypyitaw,Member,Male,Sports and travel,566370.0,Credit card,4.3,afternoon,Thursday
+B,Mandalay,Normal,Female,Electronic accessories,215979.75,Credit card,7.7,morning,Tuesday
+C,Naypyitaw,Member,Female,Home and lifestyle,785956.5,Cash,7.3,morning,Wednesday
+A,Yangon,Member,Female,Home and lifestyle,353808.0,Credit card,5.9,afternoon,Wednesday
+C,Naypyitaw,Normal,Male,Health and beauty,198040.49999999997,Cash,5.0,morning,Tuesday
+A,Yangon,Normal,Male,Food and beverages,772159.5,Credit card,8.0,afternoon,Sunday
+A,Yangon,Member,Female,Sports and travel,719853.75,Ewallet,7.1,evening,Monday
+B,Mandalay,Normal,Male,Fashion accessories,247022.99999999997,Credit card,9.0,evening,Wednesday
+B,Mandalay,Member,Male,Fashion accessories,188559.0,Ewallet,6.7,afternoon,Sunday
+B,Mandalay,Member,Female,Food and beverages,856170.0,Credit card,6.1,morning,Thursday
+A,Yangon,Normal,Male,Sports and travel,1390425.75,Cash,9.3,evening,Sunday
+A,Yangon,Normal,Male,Health and beauty,240313.5,Ewallet,7.0,evening,Tuesday
+A,Yangon,Member,Male,Fashion accessories,1092168.0,Credit card,7.2,evening,Thursday
+B,Mandalay,Normal,Male,Electronic accessories,361462.5,Ewallet,8.2,evening,Wednesday
+C,Naypyitaw,Normal,Female,Food and beverages,231194.25,Ewallet,8.4,morning,Tuesday
+A,Yangon,Normal,Female,Home and lifestyle,223020.0,Ewallet,6.2,afternoon,Monday
+C,Naypyitaw,Normal,Male,Home and lifestyle,183786.75,Ewallet,7.4,morning,Thursday
+B,Mandalay,Member,Female,Fashion accessories,116487.0,Credit card,5.0,morning,Saturday
+A,Yangon,Normal,Male,Home and lifestyle,154255.5,Ewallet,6.9,morning,Thursday
+A,Yangon,Normal,Female,Fashion accessories,460215.0,Credit card,4.9,evening,Monday
+C,Naypyitaw,Member,Female,Food and beverages,826686.0,Ewallet,5.1,evening,Friday
+A,Yangon,Normal,Male,Home and lifestyle,144963.0,Ewallet,9.1,morning,Tuesday
+C,Naypyitaw,Member,Male,Health and beauty,119511.00000000001,Credit card,7.1,morning,Thursday
+B,Mandalay,Member,Female,Sports and travel,127134.0,Credit card,5.0,afternoon,Wednesday
+C,Naypyitaw,Member,Male,Electronic accessories,177376.5,Credit card,5.5,evening,Monday
+B,Mandalay,Normal,Female,Food and beverages,112140.00000000001,Credit card,9.2,evening,Saturday
+B,Mandalay,Member,Male,Home and lifestyle,244503.0,Ewallet,4.9,afternoon,Tuesday
+A,Yangon,Normal,Female,Fashion accessories,463365.00000000006,Ewallet,8.9,evening,Saturday
+A,Yangon,Normal,Male,Sports and travel,863966.25,Credit card,6.0,afternoon,Monday
+B,Mandalay,Normal,Female,Sports and travel,405877.49999999994,Cash,4.2,evening,Saturday
+A,Yangon,Normal,Female,Electronic accessories,624267.0,Cash,7.3,morning,Wednesday
+B,Mandalay,Normal,Male,Fashion accessories,270600.75,Ewallet,6.5,evening,Saturday
+B,Mandalay,Normal,Female,Fashion accessories,769844.25,Cash,8.9,morning,Friday
+B,Mandalay,Normal,Female,Health and beauty,825552.0000000001,Cash,9.7,afternoon,Tuesday
+C,Naypyitaw,Normal,Male,Electronic accessories,209884.5,Credit card,8.6,morning,Thursday
+A,Yangon,Member,Male,Electronic accessories,213003.0,Cash,6.9,evening,Monday
+B,Mandalay,Normal,Male,Home and lifestyle,177093.0,Credit card,7.7,afternoon,Sunday
+B,Mandalay,Member,Female,Fashion accessories,226926.0,Cash,9.5,evening,Monday
+C,Naypyitaw,Member,Female,Food and beverages,1551690.0,Ewallet,4.5,evening,Wednesday
+A,Yangon,Member,Male,Food and beverages,393687.00000000006,Ewallet,5.6,afternoon,Wednesday
+A,Yangon,Member,Female,Home and lifestyle,342184.5,Ewallet,8.2,evening,Friday
+B,Mandalay,Normal,Male,Electronic accessories,305896.5,Cash,7.3,afternoon,Thursday
+C,Naypyitaw,Normal,Male,Food and beverages,1404900.0,Credit card,4.4,afternoon,Monday
+B,Mandalay,Normal,Female,Electronic accessories,534492.0,Ewallet,5.7,afternoon,Wednesday
+A,Yangon,Member,Male,Electronic accessories,704119.5,Ewallet,5.0,afternoon,Wednesday
+B,Mandalay,Normal,Male,Fashion accessories,312637.5,Cash,9.0,afternoon,Wednesday
+A,Yangon,Normal,Female,Food and beverages,1279057.5,Credit card,6.3,afternoon,Thursday
+C,Naypyitaw,Normal,Female,Sports and travel,776947.5,Credit card,9.4,evening,Sunday
+A,Yangon,Normal,Female,Fashion accessories,931864.5000000001,Cash,7.7,afternoon,Tuesday
+B,Mandalay,Normal,Female,Fashion accessories,880456.5,Credit card,5.5,morning,Thursday
+C,Naypyitaw,Normal,Female,Sports and travel,815629.5000000001,Ewallet,4.1,evening,Saturday
+B,Mandalay,Member,Female,Home and lifestyle,646065.0,Credit card,7.6,evening,Monday
+B,Mandalay,Member,Male,Sports and travel,420052.50000000006,Cash,8.6,morning,Tuesday
+A,Yangon,Member,Male,Food and beverages,111683.25,Ewallet,8.3,evening,Sunday
+B,Mandalay,Normal,Male,Food and beverages,228028.5,Credit card,8.1,evening,Sunday
+A,Yangon,Normal,Male,Sports and travel,676541.25,Credit card,8.6,afternoon,Friday
+B,Mandalay,Member,Male,Fashion accessories,896442.75,Ewallet,6.3,evening,Friday
+B,Mandalay,Normal,Male,Food and beverages,379890.0,Cash,5.8,evening,Wednesday
+C,Naypyitaw,Normal,Male,Food and beverages,200151.0,Ewallet,6.2,afternoon,Monday
+A,Yangon,Normal,Female,Health and beauty,404901.00000000006,Cash,7.7,afternoon,Tuesday
+B,Mandalay,Normal,Male,Health and beauty,218956.5,Ewallet,8.1,afternoon,Friday
+C,Naypyitaw,Normal,Male,Food and beverages,128614.49999999999,Cash,7.3,afternoon,Monday
+A,Yangon,Member,Female,Health and beauty,489383.99999999994,Cash,8.4,evening,Friday
+C,Naypyitaw,Member,Female,Fashion accessories,292887.0,Credit card,8.0,afternoon,Wednesday
+B,Mandalay,Member,Female,Fashion accessories,113904.00000000001,Credit card,9.5,evening,Monday
+B,Mandalay,Normal,Male,Sports and travel,297958.5,Ewallet,7.0,afternoon,Saturday
+A,Yangon,Normal,Male,Health and beauty,325773.0,Credit card,9.8,afternoon,Saturday
+A,Yangon,Normal,Female,Food and beverages,247306.5,Cash,9.2,afternoon,Wednesday
+A,Yangon,Normal,Female,Sports and travel,339097.5,Ewallet,7.7,evening,Monday
+C,Naypyitaw,Normal,Male,Fashion accessories,938857.5,Cash,5.3,morning,Thursday
+A,Yangon,Normal,Male,Health and beauty,115132.5,Cash,4.4,afternoon,Monday
+C,Naypyitaw,Member,Male,Health and beauty,439708.5,Credit card,4.3,morning,Sunday
+C,Naypyitaw,Member,Female,Home and lifestyle,267246.0,Ewallet,9.4,evening,Sunday
+A,Yangon,Member,Female,Sports and travel,71788.5,Cash,9.8,afternoon,Thursday
+A,Yangon,Member,Female,Sports and travel,355320.0,Ewallet,4.8,morning,Tuesday
+B,Mandalay,Member,Male,Sports and travel,457380.0,Cash,5.3,afternoon,Friday
+B,Mandalay,Normal,Male,Health and beauty,70024.5,Credit card,8.7,morning,Friday
+A,Yangon,Normal,Male,Food and beverages,246645.0,Credit card,9.5,afternoon,Friday
+C,Naypyitaw,Normal,Female,Sports and travel,661405.5,Ewallet,5.3,evening,Sunday
+C,Naypyitaw,Normal,Female,Fashion accessories,290193.75,Cash,9.2,evening,Saturday
+A,Yangon,Member,Female,Home and lifestyle,221508.0,Ewallet,9.6,afternoon,Sunday
+C,Naypyitaw,Normal,Male,Electronic accessories,130850.99999999999,Ewallet,6.4,evening,Wednesday
+C,Naypyitaw,Normal,Female,Fashion accessories,102359.25000000001,Credit card,4.5,morning,Saturday
+C,Naypyitaw,Normal,Male,Food and beverages,1221570.0,Ewallet,6.9,evening,Thursday
+B,Mandalay,Normal,Female,Sports and travel,515119.5,Ewallet,7.8,afternoon,Sunday
+C,Naypyitaw,Member,Female,Fashion accessories,572087.25,Cash,4.5,evening,Tuesday
+B,Mandalay,Normal,Male,Home and lifestyle,200025.0,Cash,8.6,afternoon,Friday
+A,Yangon,Member,Female,Fashion accessories,591491.25,Ewallet,5.2,afternoon,Sunday
+C,Naypyitaw,Member,Female,Food and beverages,313677.0,Credit card,6.4,evening,Thursday
+A,Yangon,Normal,Male,Fashion accessories,48210.75000000001,Ewallet,5.2,afternoon,Wednesday
+B,Mandalay,Member,Male,Food and beverages,182353.5,Ewallet,8.9,morning,Thursday
+A,Yangon,Normal,Female,Electronic accessories,45612.0,Credit card,6.2,morning,Thursday
+C,Naypyitaw,Member,Female,Food and beverages,1402899.75,Cash,6.7,morning,Saturday
+B,Mandalay,Member,Male,Fashion accessories,440464.49999999994,Cash,7.2,morning,Thursday
+C,Naypyitaw,Member,Male,Sports and travel,127464.75,Credit card,9.0,evening,Saturday
+A,Yangon,Member,Male,Food and beverages,1062337.5,Ewallet,4.2,morning,Sunday
+A,Yangon,Member,Female,Sports and travel,548856.0,Ewallet,4.2,afternoon,Wednesday
+B,Mandalay,Member,Male,Sports and travel,686070.0,Cash,6.9,evening,Sunday
+C,Naypyitaw,Member,Male,Electronic accessories,692291.25,Ewallet,4.4,evening,Thursday
+A,Yangon,Member,Male,Food and beverages,931108.5,Credit card,4.0,morning,Wednesday
+C,Naypyitaw,Member,Female,Fashion accessories,410697.0,Ewallet,8.5,evening,Thursday
+A,Yangon,Normal,Female,Food and beverages,338688.0,Credit card,9.2,afternoon,Thursday
+A,Yangon,Member,Female,Food and beverages,144285.75,Cash,9.8,evening,Wednesday
+B,Mandalay,Member,Female,Home and lifestyle,1042854.75,Credit card,4.9,afternoon,Thursday
+B,Mandalay,Normal,Female,Fashion accessories,1311187.5,Credit card,4.4,morning,Saturday
+B,Mandalay,Member,Male,Fashion accessories,143876.25,Cash,6.8,afternoon,Saturday
+B,Mandalay,Member,Female,Food and beverages,248472.0,Cash,9.1,evening,Saturday
+A,Yangon,Normal,Male,Sports and travel,191740.5,Ewallet,8.7,afternoon,Saturday
+B,Mandalay,Member,Male,Health and beauty,1300635.0,Cash,5.0,afternoon,Thursday
+A,Yangon,Member,Male,Home and lifestyle,251842.50000000003,Ewallet,7.5,afternoon,Friday
+A,Yangon,Normal,Female,Fashion accessories,19041.75,Credit card,8.2,evening,Saturday
+A,Yangon,Normal,Male,Sports and travel,1010992.5,Credit card,6.7,afternoon,Saturday
+A,Yangon,Normal,Male,Electronic accessories,370014.75,Ewallet,5.4,evening,Tuesday
+A,Yangon,Member,Male,Food and beverages,263875.5,Credit card,7.0,morning,Tuesday
+B,Mandalay,Normal,Male,Home and lifestyle,471082.5,Ewallet,4.7,morning,Monday
+B,Mandalay,Member,Male,Food and beverages,377574.75,Credit card,5.0,evening,Wednesday
+B,Mandalay,Member,Male,Health and beauty,1046902.4999999999,Credit card,5.0,afternoon,Tuesday
+A,Yangon,Normal,Male,Health and beauty,319173.75,Credit card,6.0,evening,Sunday
+C,Naypyitaw,Normal,Female,Electronic accessories,72765.0,Cash,6.3,afternoon,Tuesday
+B,Mandalay,Member,Female,Food and beverages,138836.25,Cash,8.5,afternoon,Friday
+B,Mandalay,Normal,Male,Fashion accessories,247684.5,Ewallet,7.5,evening,Wednesday
+B,Mandalay,Member,Female,Food and beverages,466782.74999999994,Ewallet,6.4,evening,Saturday
+C,Naypyitaw,Member,Female,Electronic accessories,1115730.0,Ewallet,4.7,afternoon,Tuesday
+B,Mandalay,Member,Male,Electronic accessories,175360.5,Ewallet,6.0,afternoon,Wednesday
+C,Naypyitaw,Member,Female,Food and beverages,913752.0,Credit card,4.0,evening,Saturday
+C,Naypyitaw,Member,Male,Electronic accessories,94893.75,Ewallet,5.5,afternoon,Saturday
+A,Yangon,Member,Male,Home and lifestyle,274428.0,Ewallet,8.7,evening,Friday
+C,Naypyitaw,Normal,Male,Health and beauty,663484.5,Cash,7.4,afternoon,Saturday
+B,Mandalay,Member,Male,Fashion accessories,52967.25,Cash,5.6,evening,Wednesday
+C,Naypyitaw,Member,Female,Sports and travel,48793.50000000001,Cash,6.3,afternoon,Wednesday
+C,Naypyitaw,Normal,Male,Electronic accessories,389655.0,Cash,7.1,evening,Sunday
+B,Mandalay,Normal,Male,Electronic accessories,595822.5,Ewallet,7.8,evening,Tuesday
+B,Mandalay,Normal,Female,Health and beauty,527404.5,Cash,9.9,morning,Tuesday
+A,Yangon,Member,Male,Home and lifestyle,1146285.0,Cash,7.3,evening,Sunday
+B,Mandalay,Member,Male,Sports and travel,529011.0,Ewallet,5.1,afternoon,Wednesday
+B,Mandalay,Member,Male,Fashion accessories,379134.0,Credit card,9.4,evening,Saturday
+A,Yangon,Normal,Female,Electronic accessories,74135.25,Credit card,5.8,afternoon,Thursday
+C,Naypyitaw,Normal,Female,Electronic accessories,157011.75,Credit card,8.0,morning,Wednesday
+A,Yangon,Member,Female,Fashion accessories,416508.75,Ewallet,7.9,morning,Friday
+A,Yangon,Member,Female,Sports and travel,219948.75,Cash,5.9,afternoon,Tuesday
+A,Yangon,Member,Male,Fashion accessories,87333.75,Credit card,4.9,evening,Tuesday
+B,Mandalay,Normal,Female,Sports and travel,203033.25,Cash,9.3,morning,Sunday
+C,Naypyitaw,Member,Male,Sports and travel,188968.5,Credit card,7.9,afternoon,Wednesday
+B,Mandalay,Member,Female,Fashion accessories,555187.5,Credit card,5.9,evening,Sunday
+C,Naypyitaw,Member,Female,Food and beverages,1371825.0,Credit card,9.9,afternoon,Tuesday
+C,Naypyitaw,Normal,Female,Sports and travel,311220.0,Cash,7.7,morning,Thursday
+A,Yangon,Normal,Female,Fashion accessories,306369.0,Ewallet,7.6,afternoon,Monday
+B,Mandalay,Member,Male,Food and beverages,272821.5,Ewallet,7.7,afternoon,Wednesday
+B,Mandalay,Normal,Female,Health and beauty,113211.0,Ewallet,6.4,evening,Saturday
+C,Naypyitaw,Member,Female,Health and beauty,450859.49999999994,Ewallet,4.4,afternoon,Saturday
+B,Mandalay,Normal,Female,Sports and travel,127953.00000000001,Credit card,4.1,morning,Thursday
+A,Yangon,Member,Male,Fashion accessories,882629.9999999999,Ewallet,4.4,evening,Monday
+B,Mandalay,Member,Male,Food and beverages,294210.0,Cash,5.5,evening,Saturday
+B,Mandalay,Normal,Female,Health and beauty,346862.25,Ewallet,4.0,afternoon,Saturday
+C,Naypyitaw,Normal,Male,Health and beauty,423864.00000000006,Credit card,9.3,evening,Friday
+A,Yangon,Normal,Female,Electronic accessories,716310.0,Credit card,4.8,morning,Friday
+B,Mandalay,Member,Male,Fashion accessories,263875.5,Cash,4.6,evening,Sunday
+B,Mandalay,Member,Female,Sports and travel,706482.0,Credit card,7.3,evening,Tuesday
+A,Yangon,Member,Female,Food and beverages,462861.0,Cash,6.0,evening,Saturday
+C,Naypyitaw,Normal,Male,Health and beauty,928462.5,Ewallet,8.1,afternoon,Thursday
+A,Yangon,Member,Male,Food and beverages,458325.0,Ewallet,9.4,afternoon,Friday
+B,Mandalay,Member,Female,Electronic accessories,62181.0,Cash,6.5,evening,Tuesday
+B,Mandalay,Normal,Female,Sports and travel,54825.75,Credit card,7.0,morning,Monday
+C,Naypyitaw,Normal,Female,Fashion accessories,466074.0,Ewallet,7.1,afternoon,Wednesday
+A,Yangon,Member,Male,Fashion accessories,67662.0,Ewallet,6.6,afternoon,Wednesday
+B,Mandalay,Member,Female,Sports and travel,218106.0,Ewallet,4.9,evening,Thursday
+B,Mandalay,Member,Female,Home and lifestyle,154665.0,Credit card,6.4,afternoon,Tuesday
+B,Mandalay,Member,Female,Sports and travel,204214.5,Credit card,8.0,morning,Tuesday
+A,Yangon,Member,Male,Home and lifestyle,1001070.0,Cash,4.3,evening,Wednesday
+C,Naypyitaw,Member,Male,Sports and travel,229572.0,Cash,6.1,afternoon,Wednesday
+A,Yangon,Normal,Female,Food and beverages,317047.5,Cash,7.5,morning,Friday
+C,Naypyitaw,Member,Female,Sports and travel,994943.2499999999,Cash,6.7,afternoon,Friday
+C,Naypyitaw,Member,Male,Food and beverages,606816.0,Ewallet,5.2,evening,Tuesday
+A,Yangon,Member,Male,Health and beauty,765922.5,Cash,8.8,afternoon,Monday
+C,Naypyitaw,Member,Female,Fashion accessories,809014.4999999999,Cash,9.5,afternoon,Sunday
+C,Naypyitaw,Normal,Female,Food and beverages,745605.0,Cash,7.6,afternoon,Wednesday
+A,Yangon,Member,Female,Home and lifestyle,688038.75,Cash,6.6,evening,Tuesday
+A,Yangon,Member,Female,Sports and travel,170352.0,Ewallet,6.9,evening,Tuesday
+B,Mandalay,Normal,Male,Home and lifestyle,391796.99999999994,Ewallet,4.3,evening,Sunday
+A,Yangon,Member,Male,Electronic accessories,986296.4999999999,Credit card,7.8,evening,Tuesday
+C,Naypyitaw,Normal,Male,Home and lifestyle,1535625.0,Ewallet,8.0,evening,Saturday
