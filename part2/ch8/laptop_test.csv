@@ -1,0 +1,40 @@
+Brand,Model,Series,Processor,Processor_Gen,RAM,Hard_Disk_Capacity,OS,Rating
+DELL,Vostro,,i3,10th,8.0,256 GB SSD,Windows 10 Home,4.3
+Lenovo,IdeaPad,3,i3,10th,8.0,256 GB SSD,Windows 11 Home,4.3
+HP,,,i5,11th,8.0,512 GB SSD,Windows 11 Home,4.4
+Lenovo,IdeaPad,3,i3,11th,8.0,256 GB SSD,Windows 11 Home,4.3
+HP,250-G6,,i5,7th,4.0,1 TB HDD,DOS,4.2
+DELL,Inspiron,Ryzen,3450U,-,8.0,512 GB SSD,Windows 11 Home,4.3
+acer,Aspire,7,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.4
+ASUS,ROG,Zephyrus,4800HS,-,8.0,1 TB SSD,Windows 10 Home,4.6
+ASUS,ROG,Strix,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.6
+ASUS,VivoBook,15,-,(4,4.0,256 GB SSD,Windows 10 Home,4.3
+Lenovo,IdeaPad,Flex,i3,11th,8.0,512 GB SSD,Windows 10 Home,4.5
+APPLE,MacBook,Air,,,,,,4.5
+realme,Book,(Slim),i3,11th,8.0,256 GB SSD,Windows 10 Home,4.4
+acer,Travelmate,,i5,11th,16.0,1 TB HDD,256 GB SSD,3.4
+DELL,,,i7,11th,16.0,512 GB SSD,Windows 11 Home,4.4
+DELL,Vostro,,i5,11th,8.0,1 TB HDD,Windows 10 Home,3.6
+HP,Ryzen,3,5300U,-,8.0,512 GB SSD,Windows 11 Home,4.2
+DELL,Inspiron,,i5,11th,8.0,1 TB HDD,256 GB SSD,4.2
+DELL,Inspiron,,i3,11th,8.0,1 TB HDD,Windows 11 Home,3.7
+DELL,Inspiron,,i3,11th,8.0,1 TB HDD,Windows 11 Home,3.7
+HP,Notebook,PC,i3,11th,8.0,1 TB HDD,Windows 10,3.9
+ASUS,Vivobook,14,i3,10th,8.0,1 TB HDD,Windows 10 Home,4.2
+MICROSOFT,Surface,Laptop,i5,8th,8.0,128 GB SSD,Windows 10 Home,4.5
+DELL,Inspiron,Ryzen,3250U,-,8.0,256 GB SSD,Windows 11 Home,4.3
+ASUS,,,i3,11th,8.0,256 GB SSD,Windows 11 Home,4.4
+Lenovo,IdeaPad,3,i5,11th,8.0,512 GB SSD,Windows 10 Home,4.2
+MSI,Katana,GF66,i5,11th,16.0,512 GB SSD,Windows 10 Home,4.4
+ASUS,VivoBook,15,i3,10th,4.0,512 GB SSD,Windows 11 Home,4.2
+ASUS,,,i3,10th,4.0,1 TB HDD,Windows 10 Home,3.7
+DELL,Inspiron,,i3,11th,8.0,1 TB HDD,Windows 11 Home,3.7
+Lenovo,IdeaPad,3,i3,11th,8.0,256 GB SSD,Windows 11 Home,4.2
+ASUS,TUF,Gaming,i5,10th,8.0,512 GB SSD,Windows 10 Home,4.5
+HP,HP,Pavilion,i5,11th,16.0,512 GB SSD,Windows 10 Home,4.5
+HP,,,i3,11th,8.0,512 GB SSD,Windows 10,4.0
+DELL,Inspiron,Ryzen,3450U,-,8.0,1 TB HDD,256 GB SSD,3.9
+Lenovo,IdeaPad,3,5500U,-,8.0,512 GB SSD,Windows 11 Home,4.4
+APPLE,MacBook,Air,,,,,,4.5
+DELL,Inspiron,,i5,11th,16.0,512 GB SSD,Windows 10,4.2
+Lenovo,IdeaPad,3,i3,10th,8.0,1 TB HDD,Windows 10 Home,4.1
