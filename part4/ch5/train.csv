@@ -931,7 +931,7 @@ model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
  EcoSport,2015,8000,Manual,37617,Petrol,125,53.3,1.0
  Fiesta,2016,6298,Manual,47327,Petrol,125,54.3,1.2
  Focus,2015,13999,Manual,30367,Petrol,200,41.5,2.0
- Fiesta,2016,6495,Automatic,54807,Petrol,205,42.8,1.4
+ Fiesta,2060,6495,Automatic,54807,Petrol,205,42.8,1.4
  Fiesta,2016,8244,Manual,19453,Diesel,0,78.5,1.5
  Fiesta,2018,10498,Manual,10356,Petrol,145,65.7,1.0
  Kuga,2018,13500,Semi-Auto,49835,Diesel,150,54.3,2.0
