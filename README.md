@@ -15,6 +15,7 @@
 - PART4. 기출
 
 ## 예제코드 바로 실행하는 방법
+![guide_colab](https://github.com/user-attachments/assets/840d2a4f-a725-4320-9c84-c76d37f910d7)
 
 
 
