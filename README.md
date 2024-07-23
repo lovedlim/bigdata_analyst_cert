@@ -15,7 +15,8 @@
 - PART4. 기출
 
 ## 예제코드 바로 실행하는 방법
-- 노트북 선택(part/chapter) -> 구글 코랩에서 실행하기 -> Drive로 복사 -> 실행
+- 노트북 선택(part/chapter) -> 구글 코랩에서 실행하기 -> Drive로 복사 -> 실행
+  
 ![guide_colab](https://github.com/user-attachments/assets/840d2a4f-a725-4320-9c84-c76d37f910d7)
 
 
