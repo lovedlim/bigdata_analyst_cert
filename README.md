@@ -8,6 +8,9 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 
+## 도서 링크
+- [교보문고](), [yes24]()
+
 ## 🌱목차
 - PART1. 작업형1 (파이썬, 판다스, 연습문제)
 - PART2. 작업형2 (이진분류, 다중분류, 회귀, 평가지표, 연습문제)
