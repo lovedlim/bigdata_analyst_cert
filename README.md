@@ -7,8 +7,10 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-1.2.2-black)]()
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
+
 ## 도서 링크
 - [교보문고](), [yes24]()
+
 
 ## 🌱 목차
 - PART1. 작업형1 (파이썬, 판다스, 연습문제)
@@ -31,7 +33,8 @@
 ## 🌱 오타 및 코드 수정 공지
 - (오타 및 코드에 문제가 있을 경우 작성될 공간)
 
-## 도서 활용 스터디
+
+## 🌱 도서 활용 스터디
 - 링크: 
 
 이 레포지토리에 실린 모든 내용의 저작권은 저자에게 있으며, 저자의 허락 없이 이 코드의 일부 또는 전부를 복제, 배포할 수 없습니다.
