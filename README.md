@@ -1,4 +1,4 @@
-# 빅데이터 분석기사 실기 - 길벗 시나공 시리즈
+# [퇴근후딴짓] 빅데이터 분석기사 실기 - 길벗 시나공 시리즈
  
 [![Python](https://img.shields.io/badge/Python-3.10.12-blue)]()
 [![Pandas](https://img.shields.io/badge/Pandas-2.0.3-orange)]()
