@@ -8,8 +8,9 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 
-## 도서 링크
+## 🌱 도서 링크
 - [교보문고](), [yes24]()
+- (도서 이미지 삽입)
 
 
 ## 🌱 목차
