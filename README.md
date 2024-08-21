@@ -179,9 +179,9 @@
         ├── churn_train.csv
         ├── customer_travel.csv
         ├── drinks.csv
-        ├── p7_type1.ipynb
-        ├── p7_type2.ipynb
-        ├── p7_type3.ipynb
+        ├── p8_type1.ipynb
+        ├── p8_type2.ipynb
+        ├── p8_type3.ipynb
         ├── piq.csv
         └── tourist.csv
 ```
