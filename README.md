@@ -45,5 +45,145 @@
 - 디스코드 링크: https://discord.gg/V8acvTnHhH
 - 학습과 관련해 1:1 질의응답은 진행하지 않습니다. 미션을 수행하고, 멤버간 질의응답을 하는 공간입니다. 
 
+## 레포지토리 구조
+```text
+.
+├── README.md
+├── part1
+│   ├── ch1
+│   │   └── ch1_python.ipynb
+│   ├── ch2
+│   │   └── ch2_pandas.ipynb
+│   └── ch3
+│       ├── ch3_ex_type1.ipynb
+│       ├── delivery_time.csv
+│       ├── school_data.csv
+│       ├── school_data_science.csv
+│       ├── school_data_social.csv
+│       ├── type1_data1.csv
+│       └── type1_data2.csv
+├── part2
+│   ├── ch2
+│   │   ├── ch2_classification.ipynb
+│   │   ├── test.csv
+│   │   └── train.csv
+│   ├── ch3
+│   │   └── ch3_metrics.ipynb
+│   ├── ch4
+│   │   ├── ch4_regression.ipynb
+│   │   ├── test.csv
+│   │   └── train.csv
+│   ├── ch5
+│   │   ├── ch5_multi_class_classification.ipynb
+│   │   ├── test.csv
+│   │   └── train.csv
+│   ├── ch6
+│   │   ├── ch6_ex_classification.ipynb
+│   │   ├── creditcard_test.csv
+│   │   ├── creditcard_train.csv
+│   │   ├── diabetes_test.csv
+│   │   ├── diabetes_train.csv
+│   │   ├── hr_test.csv
+│   │   └── hr_train.csv
+│   ├── ch7
+│   │   ├── ch7_ex_multi_class_classification.ipynb
+│   │   ├── drug_test.csv
+│   │   ├── drug_train.csv
+│   │   ├── glass_test.csv
+│   │   ├── glass_train.csv
+│   │   ├── score_test.csv
+│   │   └── score_train.csv
+│   └── ch8
+│       ├── car_test.csv
+│       ├── car_train.csv
+│       ├── ch8_ex_regression.ipynb
+│       ├── flight_test.csv
+│       ├── flight_train.csv
+│       ├── laptop_test.csv
+│       └── laptop_train.csv
+├── part3
+│   ├── ch1
+│   │   └── ch1_hypothesis_testing.ipynb
+│   ├── ch2
+│   │   ├── ch2_anova.ipynb
+│   │   ├── fertilizer.csv
+│   │   └── tree.csv
+│   ├── ch3
+│   │   └── ch3_chi_square.ipynb
+│   ├── ch4
+│   │   ├── ch4_linear_regression.ipynb
+│   │   └── study.csv
+│   ├── ch5
+│   │   ├── ch5_logistic_regression.ipynb
+│   │   └── health_survey.csv
+│   └── ch6
+│       ├── ch6_ex_type3.ipynb
+│       ├── math.csv
+│       └── tomato2.csv
+└── part4
+    ├── ch2
+    │   ├── X_test.csv
+    │   ├── X_train.csv
+    │   ├── members.csv
+    │   ├── p2_type1.ipynb
+    │   ├── p2_type2.ipynb
+    │   └── y_train.csv
+    ├── ch3
+    │   ├── members.csv
+    │   ├── p3_type1.ipynb
+    │   ├── p3_type2.ipynb
+    │   ├── test.csv
+    │   ├── train.csv
+    │   └── year.csv
+    ├── ch4
+    │   ├── data4-1.csv
+    │   ├── data4-2.csv
+    │   ├── data4-3.csv
+    │   ├── p4_type1.ipynb
+    │   ├── p4_type2.ipynb
+    │   ├── test.csv
+    │   └── train.csv
+    ├── ch5
+    │   ├── data5-1.csv
+    │   ├── data5-2.csv
+    │   ├── data5-3.csv
+    │   ├── p5_type1.ipynb
+    │   ├── p5_type2.ipynb
+    │   ├── test.csv
+    │   └── train.csv
+    ├── ch6
+    │   ├── data6-1-1.csv
+    │   ├── data6-1-2.csv
+    │   ├── data6-1-3.csv
+    │   ├── data6-3-2.csv
+    │   ├── energy_test.csv
+    │   ├── energy_train.csv
+    │   ├── p6_type1.ipynb
+    │   ├── p6_type2.ipynb
+    │   └── p6_type3.ipynb
+    ├── ch7
+    │   ├── air_quality.csv
+    │   ├── clam.csv
+    │   ├── mart_test.csv
+    │   ├── mart_train.csv
+    │   ├── p7_type1.ipynb
+    │   ├── p7_type2.ipynb
+    │   ├── p7_type3.ipynb
+    │   ├── stock_market.csv
+    │   ├── student_assessment.csv
+    │   └── system_cpu.csv
+    └── ch8
+        ├── chem.csv
+        ├── churn.csv
+        ├── churn_test.csv
+        ├── churn_train.csv
+        ├── customer_travel.csv
+        ├── drinks.csv
+        ├── p7_type1.ipynb
+        ├── p7_type2.ipynb
+        ├── p7_type3.ipynb
+        ├── piq.csv
+        └── tourist.csv
+```
 
 이 레포지토리에 실린 모든 내용의 저작권은 저자에게 있으며, 저자의 허락 없이 이 코드의 일부 또는 전부를 복제, 배포할 수 없습니다.
