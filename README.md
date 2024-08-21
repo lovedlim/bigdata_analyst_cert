@@ -26,7 +26,8 @@
 ![guide_colab](https://github.com/user-attachments/assets/840d2a4f-a725-4320-9c84-c76d37f910d7)
 
 ## 🌱 예제코드 전체 다운로드 방법
-- "Code" 버튼 클릭 -> 풀다운 메뉴에서 "Download Zip"을 선택
+- "Code" 버튼 클릭 -> 풀다운 메뉴에서 "Download Zip"을 선택
+- 입문자는 "예제코드 바로 실행하는 방법"을 추천합니다. 
 <img width="819" alt="Screenshot 2024-08-21 at 11 58 59 AM" src="https://github.com/user-attachments/assets/4ade48e7-9071-4849-9ea1-5828de49e554">
 
 
