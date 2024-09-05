@@ -56,7 +56,7 @@ This will raise in a future version.
 ```text
 .
 ├── README.md
-├── part1
+├── part1 (작업형1)
 │   ├── ch1
 │   │   └── ch1_python.ipynb (코드)
 │   ├── ch2
@@ -69,7 +69,7 @@ This will raise in a future version.
 │       ├── school_data_social.csv
 │       ├── type1_data1.csv
 │       └── type1_data2.csv
-├── part2
+├── part2 (작업형2)
 │   ├── ch2
 │   │   ├── ch2_classification.ipynb (코드)
 │   │   ├── test.csv
@@ -108,7 +108,7 @@ This will raise in a future version.
 │       ├── flight_train.csv
 │       ├── laptop_test.csv
 │       └── laptop_train.csv
-├── part3
+├── part3 (작업형3)
 │   ├── ch1
 │   │   └── ch1_hypothesis_testing.ipynb (코드)
 │   ├── ch2
@@ -127,7 +127,7 @@ This will raise in a future version.
 │       ├── ch6_ex_type3.ipynb (코드)
 │       ├── math.csv
 │       └── tomato2.csv
-└── part4
+└── part4 (기출유형)
     ├── ch2
     │   ├── X_test.csv
     │   ├── X_train.csv
