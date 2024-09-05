@@ -6,7 +6,6 @@
 [![SciPy](https://img.shields.io/badge/SciPy-1.11.4-blue)]()
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-1.2.2-black)]()
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-updated 2024.09.05
 
 ## 🌱 도서 링크
 - [교보문고](), [yes24]()
