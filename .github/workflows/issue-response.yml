@@ -1,0 +1,40 @@
+name: Issue Response Bot
+
+on:
+  issues:
+    types: [opened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  issues: write  # 이슈 및 댓글에 대한 쓰기 권한 부여
+  contents: read  # 필요한 경우 리포지토리 읽기 권한
+
+jobs:
+  respond:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          
+          pip install openai==0.28.0 requests
+
+      - name: Generate Response
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          COMMENT_BODY: ${{ github.event.issue.body || github.event.comment.body }}
+          COMMENT_AUTHOR: ${{ github.event.issue.user.login || github.event.comment.user.login }}
+        run: |
+          python .github/workflows/respond_to_issue.py 
