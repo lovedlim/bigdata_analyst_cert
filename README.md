@@ -36,8 +36,8 @@
 - 문제가 지속될 경우, ChatGPT(https://chat.openai.com/), Claude(https://claude.ai) 를 활용
 
 
-## 🌱 오타 및 코드 수정 공지
-- 아래와 같은 lightgbm 모델에서 발생하는 워닝은 무시해도 됩니다. (코랩 최신버전에서 워닝 발생, 시험환경 발생하지 않음)
+## 🌱 안내사항
+- 아래와 같은 lightgbm 모델에서 학습시 발생하는 워닝은 무시해도 됨 (코랩 최신버전에서 워닝 발생, 시험환경 발생하지 않음)
 ```text
 /usr/local/lib/python3.10/dist-packages/dask/dataframe/__init__.py:42: FutureWarning: 
 Dask dataframe query planning is disabled because dask-expr is not installed.
