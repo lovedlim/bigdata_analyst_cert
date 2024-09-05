@@ -10,8 +10,7 @@
 
 ## 🌱 도서 링크
 - [교보문고](), [yes24]()
-![IMG_6707](https://github.com/user-attachments/assets/0beab88b-b463-4058-9c5c-c6a0284b1d37){: width="50%" height="50%"}
-
+<img src="https://github.com/user-attachments/assets/0beab88b-b463-4058-9c5c-c6a0284b1d37" width="50%" height="50%"/>
 
 
 ## 🌱 목차
