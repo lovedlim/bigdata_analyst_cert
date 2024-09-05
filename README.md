@@ -58,11 +58,11 @@ This will raise in a future version.
 ├── README.md
 ├── part1
 │   ├── ch1
-│   │   └── ch1_python.ipynb
+│   │   └── ch1_python.ipynb (코드)
 │   ├── ch2
-│   │   └── ch2_pandas.ipynb
+│   │   └── ch2_pandas.ipynb (코드)
 │   └── ch3
-│       ├── ch3_ex_type1.ipynb
+│       ├── ch3_ex_type1.ipynb (코드)
 │       ├── delivery_time.csv
 │       ├── school_data.csv
 │       ├── school_data_science.csv
@@ -71,21 +71,21 @@ This will raise in a future version.
 │       └── type1_data2.csv
 ├── part2
 │   ├── ch2
-│   │   ├── ch2_classification.ipynb
+│   │   ├── ch2_classification.ipynb (코드)
 │   │   ├── test.csv
 │   │   └── train.csv
 │   ├── ch3
-│   │   └── ch3_metrics.ipynb
+│   │   └── ch3_metrics.ipynb (코드)
 │   ├── ch4
-│   │   ├── ch4_regression.ipynb
+│   │   ├── ch4_regression.ipynb (코드)
 │   │   ├── test.csv
 │   │   └── train.csv
 │   ├── ch5
-│   │   ├── ch5_multi_class_classification.ipynb
+│   │   ├── ch5_multi_class_classification.ipynb (코드)
 │   │   ├── test.csv
 │   │   └── train.csv
 │   ├── ch6
-│   │   ├── ch6_ex_classification.ipynb
+│   │   ├── ch6_ex_classification.ipynb (코드)
 │   │   ├── creditcard_test.csv
 │   │   ├── creditcard_train.csv
 │   │   ├── diabetes_test.csv
@@ -93,7 +93,7 @@ This will raise in a future version.
 │   │   ├── hr_test.csv
 │   │   └── hr_train.csv
 │   ├── ch7
-│   │   ├── ch7_ex_multi_class_classification.ipynb
+│   │   ├── ch7_ex_multi_class_classification.ipynb (코드)
 │   │   ├── drug_test.csv
 │   │   ├── drug_train.csv
 │   │   ├── glass_test.csv
@@ -103,28 +103,28 @@ This will raise in a future version.
 │   └── ch8
 │       ├── car_test.csv
 │       ├── car_train.csv
-│       ├── ch8_ex_regression.ipynb
+│       ├── ch8_ex_regression.ipynb (코드)
 │       ├── flight_test.csv
 │       ├── flight_train.csv
 │       ├── laptop_test.csv
 │       └── laptop_train.csv
 ├── part3
 │   ├── ch1
-│   │   └── ch1_hypothesis_testing.ipynb
+│   │   └── ch1_hypothesis_testing.ipynb (코드)
 │   ├── ch2
-│   │   ├── ch2_anova.ipynb
+│   │   ├── ch2_anova.ipynb (코드)
 │   │   ├── fertilizer.csv
 │   │   └── tree.csv
 │   ├── ch3
-│   │   └── ch3_chi_square.ipynb
+│   │   └── ch3_chi_square.ipynb (코드)
 │   ├── ch4
-│   │   ├── ch4_linear_regression.ipynb
+│   │   ├── ch4_linear_regression.ipynb (코드)
 │   │   └── study.csv
 │   ├── ch5
-│   │   ├── ch5_logistic_regression.ipynb
+│   │   ├── ch5_logistic_regression.ipynb (코드)
 │   │   └── health_survey.csv
 │   └── ch6
-│       ├── ch6_ex_type3.ipynb
+│       ├── ch6_ex_type3.ipynb (코드)
 │       ├── math.csv
 │       └── tomato2.csv
 └── part4
@@ -132,13 +132,13 @@ This will raise in a future version.
     │   ├── X_test.csv
     │   ├── X_train.csv
     │   ├── members.csv
-    │   ├── p2_type1.ipynb
-    │   ├── p2_type2.ipynb
+    │   ├── p2_type1.ipynb (작업형1 코드)
+    │   ├── p2_type2.ipynb (작업형2 코드)
     │   └── y_train.csv
     ├── ch3
     │   ├── members.csv
-    │   ├── p3_type1.ipynb
-    │   ├── p3_type2.ipynb
+    │   ├── p3_type1.ipynb (작업형1 코드)
+    │   ├── p3_type2.ipynb (작업형2 코드)
     │   ├── test.csv
     │   ├── train.csv
     │   └── year.csv
@@ -146,16 +146,16 @@ This will raise in a future version.
     │   ├── data4-1.csv
     │   ├── data4-2.csv
     │   ├── data4-3.csv
-    │   ├── p4_type1.ipynb
-    │   ├── p4_type2.ipynb
+    │   ├── p4_type1.ipynb (작업형1 코드)
+    │   ├── p4_type2.ipynb (작업형2 코드)
     │   ├── test.csv
     │   └── train.csv
     ├── ch5
     │   ├── data5-1.csv
     │   ├── data5-2.csv
     │   ├── data5-3.csv
-    │   ├── p5_type1.ipynb
-    │   ├── p5_type2.ipynb
+    │   ├── p5_type1.ipynb (작업형1 코드)
+    │   ├── p5_type2.ipynb (작업형2 코드)
     │   ├── test.csv
     │   └── train.csv
     ├── ch6
@@ -165,17 +165,17 @@ This will raise in a future version.
     │   ├── data6-3-2.csv
     │   ├── energy_test.csv
     │   ├── energy_train.csv
-    │   ├── p6_type1.ipynb
-    │   ├── p6_type2.ipynb
-    │   └── p6_type3.ipynb
+    │   ├── p6_type1.ipynb (작업형1 코드)
+    │   ├── p6_type2.ipynb (작업형2 코드)
+    │   └── p6_type3.ipynb (작업형3 코드)
     ├── ch7
     │   ├── air_quality.csv
     │   ├── clam.csv
     │   ├── mart_test.csv
     │   ├── mart_train.csv
-    │   ├── p7_type1.ipynb
-    │   ├── p7_type2.ipynb
-    │   ├── p7_type3.ipynb
+    │   ├── p7_type1.ipynb (작업형1 코드)
+    │   ├── p7_type2.ipynb (작업형2 코드)
+    │   ├── p7_type3.ipynb (작업형3 코드)
     │   ├── stock_market.csv
     │   ├── student_assessment.csv
     │   └── system_cpu.csv
@@ -186,9 +186,9 @@ This will raise in a future version.
         ├── churn_train.csv
         ├── customer_travel.csv
         ├── drinks.csv
-        ├── p8_type1.ipynb
-        ├── p8_type2.ipynb
-        ├── p8_type3.ipynb
+        ├── p8_type1.ipynb (작업형1 코드)
+        ├── p8_type2.ipynb (작업형2 코드)
+        ├── p8_type3.ipynb (작업형3 코드)
         ├── piq.csv
         └── tourist.csv
 ```
