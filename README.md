@@ -10,10 +10,11 @@
 
 ## 🌱 도서 링크
 - [교보문고](), [yes24]()
-<img src="https://github.com/user-attachments/assets/0beab88b-b463-4058-9c5c-c6a0284b1d37" width="50%" height="50%"/>
+<img src="https://github.com/user-attachments/assets/0beab88b-b463-4058-9c5c-c6a0284b1d37" width="40%" height="40%"/>
 
 
 ## 🌱 목차
+- Intro. 시험 응시 전략, 시험 환경 소개, 코드 및 데이터 불러오기, 자주하는 질문 등
 - PART1. 작업형1 (파이썬, 판다스, 연습문제)
 - PART2. 작업형2 (이진분류, 다중분류, 회귀, 평가지표, 연습문제)
 - PART3. 작업형3 (가설검정, 분산 분석, 카이제곱, 회귀, 로지스틱 회귀, 연습문제)
@@ -47,8 +48,8 @@ This will raise in a future version.
 ```
 
 ## 🌱 도서 활용 스터디
-- 9회 운영: 2024년 0월 0일 ~ 2024년 11월 30일
-- 디스코드 링크: https://discord.gg/V8acvTnHhH
+- 9회 운영(준비중): 2024년 0월 0일 ~ 2024년 11월 30일
+- 디스코드 입장 링크: https://discord.gg/V8acvTnHhH
 - 학습과 관련해 1:1 질의응답은 진행하지 않습니다. 미션을 수행하고, 멤버간 질의응답을 하는 공간입니다. 
 
 
