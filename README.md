@@ -38,7 +38,7 @@
 
 
 ## 🌱 안내사항
-- 아래와 같은 lightgbm 모델에서 학습시 발생하는 워닝은 무시해도 됨 (코랩 최신버전에서 워닝 발생, 시험환경 발생하지 않음)
+- 아래와 같은 lightgbm 모델에서 학습시 발생하는 워닝은 무시해 주세요. (코랩 최신버전에서 워닝 발생, 시험환경 발생하지 않음)
 ```text
 /usr/local/lib/python3.10/dist-packages/dask/dataframe/__init__.py:42: FutureWarning: 
 Dask dataframe query planning is disabled because dask-expr is not installed.
