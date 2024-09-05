@@ -37,13 +37,20 @@
 
 
 ## 🌱 오타 및 코드 수정 공지
-- (오타 및 코드에 문제가 있을 경우 작성될 공간)
-
+- 아래와 같은 lightgbm 모델에서 발생하는 워닝은 무시해도 됩니다. (코랩 최신버전에서 워닝 발생, 시험환경 발생하지 않음)
+```text
+/usr/local/lib/python3.10/dist-packages/dask/dataframe/__init__.py:42: FutureWarning: 
+Dask dataframe query planning is disabled because dask-expr is not installed.
+You can install it with `pip install dask[dataframe]` or `conda install dask`.
+This will raise in a future version.
+  warnings.warn(msg, FutureWarning)
+```
 
 ## 🌱 도서 활용 스터디
 - 9회 운영: 2024년 0월 0일 ~ 2024년 11월 30일
 - 디스코드 링크: https://discord.gg/V8acvTnHhH
 - 학습과 관련해 1:1 질의응답은 진행하지 않습니다. 미션을 수행하고, 멤버간 질의응답을 하는 공간입니다. 
+
 
 ## 레포지토리 구조
 ```text
