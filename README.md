@@ -8,7 +8,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ## 🌱 도서 링크
-- [교보문고](https://product.kyobobook.co.kr/detail/S000214299800), [yes24]()
+- [교보문고](https://product.kyobobook.co.kr/detail/S000214299800), [yes24](https://www.yes24.com/Product/Goods/133311973)
 <img src="https://github.com/user-attachments/assets/0beab88b-b463-4058-9c5c-c6a0284b1d37" width="40%" height="40%"/>
 
 
