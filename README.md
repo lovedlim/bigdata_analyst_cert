@@ -47,7 +47,7 @@ This will raise in a future version.
 ```
 
 ## 🌱 커뮤니티
-- 9회 스티디 운영(준비중): 2024년 0월 0일 ~ 2024년 11월 30일
+- 9회 스터디(오징어게임) 초대장 : https://bit.ly/3zFDXK0
 - 디스코드 입장 링크: https://discord.gg/V8acvTnHhH
 - 학습과 관련해 1:1 질의응답은 진행하지 않습니다. 미션을 수행하고, 멤버간 질의응답을 하는 공간입니다. 
 
