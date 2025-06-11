@@ -7,6 +7,9 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-1.2.2-black)]()
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
+### 👑 ver.2025 예시문제 풀이 코드
+- [체험 예시문제](https://www.kaggle.com/code/agileteam/t3-ex-ver2025-py)
+
 ## 🌱 도서 링크
 - [교보문고](https://product.kyobobook.co.kr/detail/S000214299800), [yes24](https://www.yes24.com/Product/Goods/133311973)
 <img src="https://github.com/user-attachments/assets/0beab88b-b463-4058-9c5c-c6a0284b1d37" width="40%" height="40%"/>
